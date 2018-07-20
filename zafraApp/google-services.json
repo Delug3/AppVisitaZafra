@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "313391602886",
+    "firebase_url": "https://visitazafra.firebaseio.com",
+    "project_id": "visitazafra",
+    "storage_bucket": "visitazafra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313391602886:android:065922ef1834beab",
+        "android_client_info": {
+          "package_name": "ayto.zafrApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313391602886-20k28oj8cvo33josgar0bpalh8p7ehvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsJQJIjEM7DVfb0yRjAPGA67Gzm1QtPQ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

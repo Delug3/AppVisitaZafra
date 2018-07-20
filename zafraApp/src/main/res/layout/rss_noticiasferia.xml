@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:id="@+id/LL01" 
+  android:layout_width="match_parent" 
+  android:layout_height="match_parent" 
+  android:orientation="vertical"
+  >
+  
+ <LinearLayout
+	    android:id="@+id/LL02"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal" >
+	</LinearLayout>
+
+ <ImageView
+     android:id="@+id/imageView1"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:adjustViewBounds="true"
+     android:scaleType="centerCrop"
+     android:src="@drawable/boton_feriazafra_noticiasazul" />
+
+	<ListView
+	    android:id="@+id/lstDataFeria"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:paddingLeft="9dp"
+	    android:paddingRight="9dp" 
+	    >
+	</ListView>
+
+</LinearLayout>
+ 
+

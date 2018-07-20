@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">313391602886-20k28oj8cvo33josgar0bpalh8p7ehvq.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://visitazafra.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">313391602886</string>
+    <string name="google_api_key" translatable="false">AIzaSyAsJQJIjEM7DVfb0yRjAPGA67Gzm1QtPQ8</string>
+    <string name="google_app_id" translatable="false">1:313391602886:android:065922ef1834beab</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAsJQJIjEM7DVfb0yRjAPGA67Gzm1QtPQ8</string>
+    <string name="google_storage_bucket" translatable="false">visitazafra.appspot.com</string>
+    <string name="project_id" translatable="false">visitazafra</string>
+</resources>

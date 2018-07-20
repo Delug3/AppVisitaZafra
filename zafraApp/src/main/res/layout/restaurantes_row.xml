@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/selector_listview_color"
+     >
+
+    <ImageView
+        android:id="@+id/ImgViewImagenRestaurantes"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="1dp"
+        android:contentDescription="@null"
+         />
+
+    <ImageView
+        android:id="@+id/imgViewFlechaListado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="18dp"
+        android:src="@drawable/res_auxiliares_flechalistado"
+        android:contentDescription="@null"
+         />
+
+    <TextView
+        android:id="@+id/txtNombreRestaurante"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="2dp"
+        android:layout_toRightOf="@+id/ImgViewImagenRestaurantes"
+        android:textSize="12sp"
+        android:textColor="#000000"
+         />
+
+    
+
+</RelativeLayout>
+

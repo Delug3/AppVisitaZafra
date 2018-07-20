@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        
+        <ImageView
+            android:id="@+id/imagenfondomas"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:contentDescription="@null"
+            />
+       
+	<ScrollView
+    	android:id="@+id/scrollcustom"
+    	android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:layout_above="@+id/btnbarrainferior"
+    	android:layout_alignParentTop="true"
+    	android:layout_centerHorizontal="true"
+    	android:layout_marginTop="140dp" 
+    	android:fadeScrollbars="false"
+    	android:scrollbarThumbVertical="@drawable/res_auxiliar_scrollstyle"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/btnqreader"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="0.1dp"
+            android:background="@null"
+            android:contentDescription="@null"
+            android:adjustViewBounds="true"
+          	android:scaleType="centerCrop"
+            android:onClick="verLectorQR"
+            android:src="@drawable/estado_boton_lectorqr" />
+        
+         <ImageButton
+            android:id="@+id/btnradio"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="0.1dp"
+            android:background="@null"
+            android:contentDescription="@null"
+            android:onClick="verRadio"
+            android:adjustViewBounds="true"
+          	android:scaleType="centerCrop"
+            android:src="@drawable/estado_boton_radio" />
+        
+		 <ImageButton
+            android:id="@+id/btnacercade"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="0.1dp"
+            android:background="@null"
+            android:contentDescription="@null"
+            android:onClick="verMas"
+            android:adjustViewBounds="true"
+          	android:scaleType="centerCrop"
+            android:src="@drawable/estado_boton_acercade" />
+       
+       
+        
+</LinearLayout>
+</ScrollView>
+
+       <ImageView
+        android:id="@+id/btnbarrainferior"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/boton_barra_inferior" 
+        android:contentDescription="@null"
+        />
+
+</RelativeLayout>

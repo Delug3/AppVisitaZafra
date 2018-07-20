@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+   <string-array name="zona">
+   <item>Avda.Caseta Municipal</item>
+   <item>Avda.Nave Subastas</item>
+   <item>Carpa Comercial 1</item>
+   <item>Carpa Comercial 2</item>
+   <item>Exposición Venta Directa</item>
+   <item>Exposición Aire Libre</item>
+   <item>Kiosco Helados</item>
+   <item>Pabellón 9A</item>
+   <item>Pabellón 9B</item>
+   <item>Pabellón Cinegética</item>
+   <item>Pabellón Institucional</item>
+   <item>Zona Casetas</item>
+   <item>Zona Restaurantes</item>
+   </string-array>
+   
+   <string-array name="expositores">
+   <item><![CDATA[
+   <font color="#04B404"><b>BEBIDAS CORDERO, C.B.</b></font><br/>Distribuidor de Bebidas<br/><br/>
+   <font color="#04B404"><b>COMERCIALIZACIÓN BEBIDAS DEL SUROESTE</b></font><br/>Distribuidor de Bebidas<br/><br/>
+   <font color="#04B404"><b>ESTRELLA GALICIA (Hijos de Rivera, S.A.)</b></font><br/>Distribuidor de Bebidas<br/><br/>
+   <font color="#04B404"><b>MACÍAS DOMÍNGUEZ, ANTONIO</b></font><br/>Restaurante<br/><br/>
+   <font color="#04B404"><b>PICAPULPO, S.L.</b></font><br/>Restaurante<br/><br/>
+  	]]></item>
+  	
+   <item><![CDATA[
+   <font color="#04B404"><b>C.R.D.O.P. DEHESA DE EXTREMADURA</b></font><br/>Agroalimentarios<br/><br/>
+   <font color="#04B404"><b>C.R.I.G.P. CORDEREX</b></font><br/>Denominación de calidad<br/><br/>
+   <font color="#04B404"><b>CAJA DUERO</b></font><br/>Banca<br/><br/>
+   <font color="#04B404"><b>CAJA RURAL DE EXTREMADURA</b></font><br/>Entidad Bancaria<br/><br/>
+   <font color="#04B404"><b>CAJALMENDRALEJO</b></font><br/>Banca<br/><br/>
+   <font color="#04B404"><b>CONSEJERÍA DE AGRICULTURA</b></font><br/>Administración Pública<br/><br/>
+   <font color="#04B404"><b>DEUTZ DITER</b></font><br/>Motores<br/><br/>
+   <font color="#04B404"><b>DIPUTACIÓN PROVINCIAL DE BADAJOZ</b></font><br/>Institución<br/><br/>
+   <font color="#04B404"><b>FUNDICIONES ESPECIALES ZAFRA, S.A.L.</b></font><br/>Fundiciones<br/><br/>
+   <font color="#04B404"><b>GRUPO CAJA 3</b></font><br/>Banca<br/><br/>
+   <font color="#04B404"><b>MINISTERIO DE MEDIO AMBIENTE Y MEDIO RURAL Y MARINO</b></font><br/>Institución<br/><br/>
+  	]]></item>
+  	
+    <item><![CDATA[
+    <font color="#04B404"><b>ACETO LORENZONI, CIRO MARCOS</b></font><br/>Artesanías<br/><br/>
+    <font color="#04B404"><b>ANGLEU ALBERT, MANUEL</b></font><br/>Artículos del hogar<br/><br/>
+    <font color="#04B404"><b>ASSENTIMÓVEL</b></font><br/>Artesanías<br/><br/>
+   	<font color="#04B404"><b>Associação de Artesãos Serra da Estrela</b></font><br/>Artesanías<br/><br/>
+    <font color="#04B404"><b>ATTIQ UR REHMAN CUTLERY WORKS</b></font><br/>Cuchillos y herramientas<br/><br/>
+    <font color="#04B404"><b>AVON COSMETICS, S.A.U.</b></font><br/>Cosméticos<br/><br/>
+    <font color="#04B404"><b>BARAHONA TOCINO, MIGUEL</b></font><br/>Hogar y Bricolage<br/><br/>
+    <font color="#04B404"><b>BOMBONES ZAMORA, S.L.U.</b></font><br/>Caramelos y golosinas<br/><br/>
+    <font color="#04B404"><b>CALZADO INFANTIL ALBA AMAYA</b></font><br/>Calzado<br/><br/>
+    <font color="#04B404"><b>CÁRNICAS MILA</b></font><br/>Embutidos de ciervo.<br/><br/>
+    <font color="#04B404"><b>CASA GALILEU</b></font><br/>Cencerros<br/><br/>
+    <font color="#04B404"><b>CASTILLA MARTÍNEZ, JONATAN</b></font><br/>Calzado<br/><br/>
+    <font color="#04B404"><b>CLUB BIBLIÓFILO EDITORIAL</b></font><br/>Editorial<br/><br/>
+    <font color="#04B404"><b>COMPAÑÍA ATLÁNTICA DEL BACALAO</b></font><br/>Alimentarios<br/><br/>
+    <font color="#04B404"><b>CONFITERÍAS LA ARGENTINA</b></font><br/>Confitería<br/><br/>
+    <font color="#04B404"><b>CUCHILLERÍA DE ALBACETE</b></font><br/>Cuchillería<br/><br/>
+    <font color="#04B404"><b>DAYLU´S</b></font><br/>Marroquinería<br/><br/>
+    <font color="#04B404"><b>DIVERTILANDIA HERMANOS SANTOS CALVO, S.L.</b></font><br/>Caramelos y Golosinas<br/><br/>
+    <font color="#04B404"><b>ECODISGAL 2000, S.L.</b></font><br/>Piedra Blanca<br/><br/>
+    <font color="#04B404"><b>EL GANADERO EXTREMEÑO</b></font><br/>Alimentación<br/><br/>
+    <font color="#04B404"><b>EL MONUMENTO</b></font><br/>Alimentación<br/><br/>  
+    <font color="#04B404"><b>EVENTOS Y EXPOSICIONES CYL, S.L.</b></font><br/>Agroalimentarios<br/><br/>
+    <font color="#04B404"><b>GRILL (Productos Portugueses)</b></font><br/>Dulces y embutidos<br/><br/> 
+    <font color="#04B404"><b>GRUPO BACOGA (Helados El Rey)</b></font><br/>Helados<br/><br/>
+    <font color="#04B404"><b>GRUPO BACOGA (Panadería Bacoga Galicia)</b></font><br/>Panadería<br/><br/>
+    <font color="#04B404"><b>GRUPO SIRIAK 2010, S.L.</b></font><br/>Industrial<br/><br/> 
+    <font color="#04B404"><b>GSS MENAGE DE COCINA</b></font><br/>Menaje<br/><br/> 
+    <font color="#04B404"><b>HEREDIA FERNÁNDEZ, ANTONIO</b></font><br/>Textil<br/><br/> 
+    <font color="#04B404"><b>IBÉRICOS EXTREMEÑOS</b></font><br/>Alimentación<br/><br/> 
+    <font color="#04B404"><b>INQUEMA, S.L.</b></font><br/>Productos cárnicos<br/><br/> 
+    <font color="#04B404"><b>JAMONES PEPEJIME</b></font><br/>Alimentación<br/><br/> 
+    <font color="#04B404"><b>JAMONES Y EMBUTIDOS IBÉRICOS HNOS. ALVARADO ARIAS, S.L.</b></font><br/>Jamones y embutidos<br/><br/> 
+    <font color="#04B404"><b>LOBINHO PIRES, JORGE MANUEL</b></font><br/>Quesos y embutidos<br/><br/> 
+    <font color="#04B404"><b>LORD DEL FORMATGE</b></font><br/>Alimentación<br/><br/> 
+    <font color="#04B404"><b>MAGIA DOURADA PASTELARIA, LDA</b></font><br/>Alimentación<br/><br/> 
+    <font color="#04B404"><b>MANUEL ARROYO GARCÍA, S.L.</b></font><br/>Frutos Secos<br/><br/> 
+    <font color="#04B404"><b>MASET DEL LLEÓ (Vinos Artesanales de Calidad, S.L.)</b></font><br/>Vinos<br/><br/> 
+    <font color="#04B404"><b>MAYLO</b></font><br/>Productos del hogar<br/><br/> 
+    <font color="#04B404"><b>MIGUEZ VARGAS, FERNANDO</b></font><br/>Barquillos y garrapiñadas<br/><br/> 
+    <font color="#04B404"><b>MORILLO POZO, CARLOS</b></font><br/>Alimentación<br/><br/> 
+    <font color="#04B404"><b>POSADA SÁNCHEZ, JOSÉ</b></font><br/>Menaje y ferretería<br/><br/> 
+    <font color="#04B404"><b>PROMO ANGLEU SPAIN, S.L.</b></font><br/>Sartenes<br/><br/> 
+    <font color="#04B404"><b>QUESOS GUARA, S.L.</b></font><br/>Quesos<br/><br/> 
+    <font color="#04B404"><b>RECIO RUIZ, MARIANO</b></font><br/>Complementos del hogar<br/><br/> 
+    <font color="#04B404"><b>REVISTA SIMARA</b></font><br/>Artesanías<br/><br/> 
+    <font color="#04B404"><b>RODRÍGUEZ ENCINA, FRANCISCO</b></font><br/>Cuadros de decoración<br/><br/> 
+    <font color="#04B404"><b>ROMAR CAZA, S.L.</b></font><br/>Ropa de caza y complementos<br/><br/> 
+    <font color="#04B404"><b>ROS PIEL</b></font><br/>Productos textiles<br/><br/> 
+    <font color="#04B404"><b>SÁNCHEZ RAMOS, ALFONSO</b></font><br/>Artículos para el hogar<br/><br/> 
+    <font color="#04B404"><b>SIERRA FERNÁNDEZ, RUBÉN</b></font><br/>Complementos<br/><br/> 
+    <font color="#04B404"><b>SUEÑO HOGAR ZOILA</b></font><br/>Productos para el descanso<br/><br/> 
+    <font color="#04B404"><b>TORREJIMENO CAMACHO, JUAN</b></font><br/>Productos de Aloe vera<br/><br/> 
+    <font color="#04B404"><b>VASCO ÁLVAREZ, GENARO</b></font><br/>Embutidos<br/><br/> 
+    <font color="#04B404"><b>ZAPATOS Y COMPLEMENTOS LOLI</b></font><br/>Productos textiles<br/><br/> 
+    ]]></item>
+    
+    <item><![CDATA[
+    <font color="#04B404"><b>Associação de Artesãos da Serra da Estrela</b></font><br/>Alimentación<br/><br/>
+    <font color="#04B404"><b>AZÚCAR DE CUBA (ZUAZNABAR VILLEGAS, RAFAEL)</b></font><br/>Bebidas tropicales<br/><br/>
+    <font color="#04B404"><b>BRAHIM TAIB ASSADIK</b></font><br/>Complementos de vestir<br/><br/>
+    <font color="#04B404"><b>CALÇADO ARTESANAL O ALAZÁN</b></font><br/>Productos textiles<br/><br/>
+    <font color="#04B404"><b>DANIEL REIS AMARELO</b></font><br/>Quesos<br/><br/>
+    <font color="#04B404"><b>DAYLUS</b></font><br/>Marroquinería<br/><br/>
+    <font color="#04B404"><b>DURAYSANCH</b></font><br/>Maquinaria de limpieza<br/><br/>
+    <font color="#04B404"><b>GRUPO SIRIAK 2010</b></font><br/>Industrial<br/><br/>
+    <font color="#04B404"><b>INTERGIMAR GROUP, S.L.</b></font><br/>Artículos hogar<br/><br/>
+    <font color="#04B404"><b>ISADORA ORTEGA</b></font><br/>Productos textiles<br/><br/>
+    <font color="#04B404"><b>JC CAÑADAS 2003, S.L.</b></font><br/>Quesos y Embutidos<br/><br/>
+    <font color="#04B404"><b>LOBINHO PIRES, JORGE MANUEL</b></font><br/>Quesos y Embutidos<br/><br/>
+    <font color="#04B404"><b>MAYLO</b></font><br/>Productos del hogar<br/><br/>
+    <font color="#04B404"><b>PRINCESA DE LA COCINA</b></font><br/>Demostraciones<br/><br/>
+    <font color="#04B404"><b>SEGUNDOS ARTESANOS</b></font><br/>Artesanías en madera<br/><br/>
+    <font color="#04B404"><b>VORWERK ESPAÑA</b></font><br/>Electrodomésticos<br/><br/>
+    <font color="#04B404"><b>ZAPATOS Y COMPLEMENTOS DOMÍNGUEZ</b></font><br/>Calzado y Complementos<br/><br/>
+   	]]></item>
+   	
+    <item><![CDATA[
+    <font color="#04B404"><b>ALMEIDA DO VALE, MARIA ISABEL</b></font><br/>Dulces<br/><br/>
+    <font color="#04B404"><b>ALVENTOSA VIDAL, ENRIQUE</b></font><br/>Venta de pájaros<br/><br/>
+    <font color="#04B404"><b>ANRANGO BURGA, JOSÉ</b></font><br/>Artesanías<br/><br/>
+    <font color="#04B404"><b>APOLO GARCÍA, MANUEL ARTURO</b></font><br/>Artesanías<br/><br/>
+    <font color="#04B404"><b>ARENAS VARGAS, MACARENA</b></font><br/>Productos textiles<br/><br/>
+    <font color="#04B404"><b>AROMAS DE GREDOS</b></font><br/>Aromas naturales<br/><br/>
+    <font color="#04B404"><b>ARTE INDONESIO, S.L.</b></font><br/>Artesanías<br/><br/>
+    <font color="#04B404"><b>ASOCIACIÓN CAMINO A LA VIDA</b></font><br/>Productos textiles<br/><br/>
+    <font color="#04B404"><b>BUENO BLÁZQUEZ, JUAN ANTONIO</b></font><br/>Cestería<br/><br/>
+    <font color="#04B404"><b>BUENO MORENO, JOSÉ</b></font><br/>Guarnicionería<br/><br/>
+    <font color="#04B404"><b>CABALLERO BARRERO, CARMEN</b></font><br/>Artesanías<br/><br/>
+    <font color="#04B404"><b>CALZADOS J. JIMENEZ</b></font><br/>Calzados<br/><br/>
+    <font color="#04B404"><b>CAMPOS JIMÉNEZ, JULIÁN</b></font><br/>Productos textiles<br/><br/>
+    <font color="#04B404"><b>CENCERROS BERMEJO</b></font><br/>Fábrica de cencerros y campanillas<br/><br/>
+    <font color="#04B404"><b>CHOCOLATERÍA NTRA. SRA. DE BELÉN</b></font><br/>Churrería<br/><br/>
+    <font color="#04B404"><b>CUADROS BALSELI</b></font><br/>Cuadros<br/><br/>
+    <font color="#04B404"><b>CUCHILLERÍA FLORES DON BENITO, S.L.L</b></font><br/>Cuchillería<br/><br/>
+    <font color="#04B404"><b>DÍAZ MANZANO, MANUEL</b></font><br/>Textil y calzado<br/><br/>
+    <font color="#04B404"><b>DÍAZ PUENTENUEVA, SIMÓN</b></font><br/>Bordados<br/><br/>
+    <font color="#04B404"><b>DIÉGUEZ DÍAZ, JOSÉ LUIS</b></font><br/>Productos Textiles<br/><br/>
+    <font color="#04B404"><b>EUROCERÁMICA ARTESANA</b></font><br/>Cerámica, cristal<br/><br/>
+    <font color="#04B404"><b>FERNÁNDEZ BLAN, TERESA</b></font><br/>Turrones<br/><br/>
+    <font color="#04B404"><b>FERNÁNDEZ CASILLAS, MANUEL</b></font><br/>Turrones<br/><br/>
+    <font color="#04B404"><b>GALLARDO FERNÁNDEZ, ELADIO</b></font><br/>Turrones<br/><br/>
+    <font color="#04B404"><b>GALLEGO NIETO, ÁNGELA</b></font><br/>Juguetes<br/><br/>
+    <font color="#04B404"><b>GARCÍA DELGADO, CARLOS FELIPE</b></font><br/>Juguetes<br/><br/>
+    <font color="#04B404"><b>GARCÍA DELGADO, LUIS MIGUEL</b></font><br/>Cuchillería<br/><br/>
+    <font color="#04B404"><b>GARCÍA DELGADO, ÓSCAR</b></font><br/>Cuchillería<br/><br/>
+    <font color="#04B404"><b>GARCÍA PUENTENUEVA, JAVIER</b></font><br/>Productos textiles<br/><br/>
+    <font color="#04B404"><b>GLOBAL HUNTING IBERIA, S.L.</b></font><br/>Guarnicionería<br/><br/>
+    <font color="#04B404"><b>GODINO JIMÉNEZ, JUAN</b></font><br/>Marisco y patatas<br/><br/>
+    <font color="#04B404"><b>GÓMEZ GALLEGO, FRANCISCO JOSÉ</b></font><br/>Juguetes<br/><br/>
+    <font color="#04B404"><b>GÓMEZ GALLEGO, PEDRO</b></font><br/>Juguetes<br/><br/>
+    <font color="#04B404"><b>GÓMEZ JIMÉNEZ, JOSEFA DEL ROCÍO</b></font><br/>Productos textiles<br/><br/>
+    <font color="#04B404"><b>GÓMEZ JIMÉNEZ, VICENTE</b></font><br/>Cuero y Calzados<br/><br/>
+    <font color="#04B404"><b>GÓMEZ PÉREZ, RAFAEL</b></font><br/>Helados<br/><br/>
+    <font color="#04B404"><b>GÓMEZ ROSA, FRANCISCO JOSÉ</b></font><br/>Sombreros y Juguetes<br/><br/>
+    <font color="#04B404"><b>GÓMEZ ROSA, SANTIAGO</b></font><br/>Sombreros y Juguetes<br/><br/>
+    <font color="#04B404"><b>GÓMEZ ROSA, SATURNINO</b></font><br/>Juguetes y Sombreros<br/><br/>
+    <font color="#04B404"><b>GÓMEZ SANTANA, PEDRO RAÚL</b></font><br/>Juguetes y Sombreros<br/><br/>
+    <font color="#04B404"><b>GONZÁLEZ REQUELO, FERNANDO</b></font><br/>Calzado<br/><br/>
+    <font color="#04B404"><b>GRUPO MORIANO Y ARAGÓN, S.L.</b></font><br/>Heladería<br/><br/>
+    <font color="#04B404"><b>GUARNICIONERÍA ANTONIO LUCAS</b></font><br/>Guarnicionería<br/><br/>
+    <font color="#04B404"><b>GUARNICIONERÍA LOS BRAVOS</b></font><br/>Guarnicionería<br/><br/>
+    <font color="#04B404"><b>GUARNICIONERÍA LOS MUÑEROS</b></font><br/>Guarnicionería<br/><br/>
+    <font color="#04B404"><b>HERMANOS BELMONTE C.B.</b></font><br/>Calderos<br/><br/>
+    <font color="#04B404"><b>HERMANOS MUÑOZ TOSINA, C.B.</b></font><br/>Helados y granizados<br/><br/>
+    <font color="#04B404"><b>HERNÁNDEZ PÉREZ, MANUEL</b></font><br/>Música<br/><br/>
+    <font color="#04B404"><b>HORSEFIRE Artigos de Equitaçao, LDA</b></font><br/>Equitación<br/><br/>
+    <font color="#04B404"><b>HUERTAS MOROTE, RAUL</b></font><br/>Ferretería<br/><br/>
+    <font color="#04B404"><b>HUERTAS SÁNCHEZ, JUAN</b></font><br/>Ferretería<br/><br/>
+    <font color="#04B404"><b>IDEAL MENAJE Y CONFORT, S.L.</b></font><br/>Menaje del hogar<br/><br/>
+    <font color="#04B404"><b>IGLESIAS GARRIDO, PEDRO </b></font><br/>Cencerros<br/><br/>
+    <font color="#04B404"><b>JABUGO, S.L.</b></font><br/>Bar<br/><br/>
+    <font color="#04B404"><b>JIMÉNEZ MARTÍNEZ, MANUELA</b></font><br/>Calderos<br/><br/>
+    <font color="#04B404"><b>JIMÉNEZ VÁZQUEZ, JUAN ANTONIO</b></font><br/>Textil<br/><br/>
+    <font color="#04B404"><b>LLAVADOR VALVERDE, FRANCISCO</b></font><br/>Caseta alimentación<br/><br/>
+    <font color="#04B404"><b>LOS MADRILES</b></font><br/>Abanicos y mantones de Manila<br/><br/>
+    <font color="#04B404"><b>LOS TRES REYES</b></font><br/>Menaje<br/><br/>
+    <font color="#04B404"><b>MALDONADO MAYA, DOLORES</b></font><br/>Productos textiles<br/><br/>
+    <font color="#04B404"><b>MARTÍN TENA, ANTONIO</b></font><br/>Sombreros y Juguetes<br/><br/>
+    <font color="#04B404"><b>MARTÍNEZ BLANCA, JUANA</b></font><br/>Patatas y Perritos<br/><br/>
+    <font color="#04B404"><b>MARTÍNEZ CALERO, FRANCISCO</b></font><br/>Cuchillería<br/><br/>
+    <font color="#04B404"><b>MARTÍNEZ CALERO, TEODOMIRO</b></font><br/>Cuchillería<br/><br/>
+    <font color="#04B404"><b>MERCADO S. COOP.</b></font><br/>Productos textiles<br/><br/>
+    <font color="#04B404"><b>MONTAÑO JIMÉNEZ, JUAN ANTONIO</b></font><br/>Productos textiles<br/><br/>
+    <font color="#04B404"><b>MORAL RAMA, BARTOLOMÉ</b></font><br/>Frutos secos<br/><br/>
+    <font color="#04B404"><b>MORIANO ARAGÓN, MARTA DEL CARMEN</b></font><br/>Helados y refrescos<br/><br/>
+    <font color="#04B404"><b>NÚÑEZ GÓMEZ, ÁNGEL</b></font><br/>Turrones<br/><br/>
+    <font color="#04B404"><b>PACHECO CARRETERO, FRANCISCA</b></font><br/>Frutos secos<br/><br/>
+    <font color="#04B404"><b>PADILLA OSUNA, MANUEL</b></font><br/>Bazar<br/><br/>
+    <font color="#04B404"><b>PEGALAJAR MORAL, DOLORES</b></font><br/>Patatas fritas<br/><br/>
+    <font color="#04B404"><b>PERNÍA BEGINES, ANTONIO</b></font><br/>Churrería<br/><br/>
+    <font color="#04B404"><b>PLANTAS DEL SUR</b></font><br/>Textil<br/><br/>
+    <font color="#04B404"><b>PORCEL CABRERIZO, ANTONIO</b></font><br/>Frutos secos y golosinas<br/><br/>
+    <font color="#04B404"><b>POZO RUIZ, MARÍA VICTORIA</b></font><br/>Turrones<br/><br/>
+    <font color="#04B404"><b>QUESOS Y JAMONES MORÁN, C.B.</b></font><br/>Alimentación<br/><br/>
+    <font color="#04B404"><b>RAMOS ARENAS, JOSÉ MIGUEL</b></font><br/>Bar<br/><br/>
+    <font color="#04B404"><b>RODATEX S.C.</b></font><br/>Guarnicionería<br/><br/>
+    <font color="#04B404"><b>ROSA GARCÍA, SANTIAGO</b></font><br/>Jueguetes y Sombreros<br/><br/>
+    <font color="#04B404"><b>RUIZ TORRELOSA, PEDRO</b></font><br/>Productos textiles<br/><br/>
+    <font color="#04B404"><b>SALAZAR SALAZAR, TERESA</b></font><br/>Textil<br/><br/>
+    <font color="#04B404"><b>SÁNCHEZ RIVERO, ISMAEL</b></font><br/>Helados<br/><br/>
+    <font color="#04B404"><b>SANTOS MARTÍN, YOLANDA</b></font><br/>Productos textiles<br/><br/>
+    <font color="#04B404"><b>SERVÁN TERRÓN, EUGENIO</b></font><br/>Productos textiles<br/><br/>
+    <font color="#04B404"><b>SUÁREZ SUÁREZ, FLORENTINO</b></font><br/>Productos textiles<br/><br/>
+    <font color="#04B404"><b>TENA DEL POZO, PABLO</b></font><br/>Turrones<br/><br/>
+    <font color="#04B404"><b>TENA MORILLO, ANTONIO</b></font><br/>Turrón y juguetes<br/><br/>
+    <font color="#04B404"><b>TENA MORILLO, DOMINGO </b></font><br/>Turrones<br/><br/>
+    <font color="#04B404"><b>TENA TENA, JUAN</b></font><br/>Turrones de Castuera<br/><br/>
+    <font color="#04B404"><b>TOROSIO GILES, RAFAEL</b></font><br/>Confección<br/><br/>
+    <font color="#04B404"><b>TRIBALDOS CARRASCO, PEDRO</b></font><br/>Hierbas medicinales<br/><br/>
+    <font color="#04B404"><b>VARGAS BOTE, REMEDIOS</b></font><br/>Productos textiles<br/><br/>
+    <font color="#04B404"><b>YAMAK ISMAEL, MUSTAFA</b></font><br/>Ferretería<br/><br/>
+    ]]></item>
+    
+    <item><![CDATA[
+    <font color="#04B404"><b>AGRÍCOLA LLERENA, S.L.</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>AGRÍCOLA VILLANOVENSE</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>AGRIFUSA, S.A.</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>AGROALMENDRALEJO, S.L.</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>AGROBELLÓN</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>ALAMBRES Y MALLAS DE ANDALUCÍA, S.L.U.</b></font><br/>Cerramientos metálicos<br/><br/>
+    <font color="#04B404"><b>ALTAGRI, S.L.</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>AUTOMOCIÓN DEL OESTE, S.A.</b></font><br/>Vehículos industriales<br/><br/>
+    <font color="#04B404"><b>AUTOMÓVILES SUÁREZ SANTIAGO, S.L.</b></font><br/>Vehículos<br/><br/>
+    <font color="#04B404"><b>CARAVANAS EXTREMADURA</b></font><br/>Caravanas<br/><br/>
+    <font color="#04B404"><b>CARPINTERÍA GANADERA EL CANO S.L.</b></font><br/>Carpintería metálica<br/><br/>
+    <font color="#04B404"><b>COMERCIAL LLANOS, S.A.</b></font><br/>Maquinaria y Equipos Agroganaderos<br/><br/>
+    <font color="#04B404"><b>DELGADO GAMERO, S.L.</b></font><br/>Maquinaria Agrícola<br/><br/>
+    <font color="#04B404"><b>DONTYRE, S.L.</b></font><br/>Neumáticos <br/><br/>
+    <font color="#04B404"><b>ECOTRAILER VALLADOLID, S.L.</b></font><br/>Carros de animales<br/><br/>
+    <font color="#04B404"><b>ELECTROMECÁNICA CAÑONES</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>EPS SOLAR, S.L.</b></font><br/>Energías renovables<br/><br/>
+    <font color="#04B404"><b>ESESOL INGENIERÍA ENERGÉTICA S.C.</b></font><br/>Servicios energéticos<br/><br/>
+    <font color="#04B404"><b>ESTEBAN MORALES RUIZ, S.L.</b></font><br/>Maquinaria y Equipos Agroganadero<br/><br/>
+    <font color="#04B404"><b>EUROPA PRODUCCIÓN PISCINAS EXTREMADURA, S.L.</b></font><br/>Piscinas<br/><br/>
+    <font color="#04B404"><b>EXTREMAWAGEN, S.L.</b></font><br/>Venta de vehículos<br/><br/>
+    <font color="#04B404"><b>FACOMA 2005, S.L.</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>FUENTE DE CANTOS MOTOR, S.A.</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>GARBER E HIJOS, S.L.</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>GExPurines</b></font><br/>Depósitos<br/><br/>
+    <font color="#04B404"><b>GÓMEZ CRUZ, DIEGO JOSÉ</b></font><br/>Remolques de animales<br/><br/>
+    <font color="#04B404"><b>HERCULANO ALFAIAS AGRÍCOLAS, S.A.</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>HISPASOL RENOVABLES, S.L.</b></font><br/>Bombeo solares<br/><br/>
+    <font color="#04B404"><b>JAVIER CÁMARA INDUSTRIAS GANADERAS, S.L.</b></font><br/>Maquinaria y Equipo Agroganadero<br/><br/>
+    <font color="#04B404"><b>KM. 0 MULTIMARCA, S.L.</b></font><br/>Vehículos<br/><br/>
+    <font color="#04B404"><b>LAMUSA AGROINDUSTRIAL, S.L.</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>MALLAS GALBIS, S.L.</b></font><br/>Cerramientos ganaderos<br/><br/>
+    <font color="#04B404"><b>MAQUINARIA AGRÍCOLA CÁMARA, S.A.</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>MAQUINARIA AGRÍCOLA Y FITOSANITARIOS NACARINO</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>MARCELO MAQUINARIA AGRÍCOLA, S.L.</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>MARCESA SERVICIOS, S.A.</b></font><br/>Vehículos<br/><br/>
+    <font color="#04B404"><b>MARCHIRANT MAQUINARIA</b></font><br/>Maquinaria agroganadera<br/><br/>
+    <font color="#04B404"><b>MASERO AUTOMOCIÓN, S.L.</b></font><br/>Automoción<br/><br/>
+    <font color="#04B404"><b>MATIBA-MAQUINARIA AGRÍCOLA TIERRA DE BARROS, S.L.</b></font><br/>Maquinaria agrícola.<br/><br/>
+    <font color="#04B404"><b>MAVEN E HIJOS, S.L.</b></font><br/>Vehículos<br/><br/>
+    <font color="#04B404"><b>MIDEL COMPOSITE, S.L.</b></font><br/>Piscinas y jardines<br/><br/>
+    <font color="#04B404"><b>MOTOS ANTONIO</b></font><br/>Maq. menor agrícola<br/><br/>
+    <font color="#04B404"><b>NIETO MARCELO AUTOMÓVILES, S.L.</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>NIETO MARCELO, S.L.</b></font><br/>Maquinaria Agroganadera<br/><br/>
+    <font color="#04B404"><b>POZOS Y SONDEOS EXTREMEÑOS</b></font><br/>Perforaciones y sondeos<br/><br/>
+    <font color="#04B404"><b>REMOLQUES CRUZ, SOC. COOP.</b></font><br/>Mat. Ganadero y remolques<br/><br/>
+    <font color="#04B404"><b>REMOLQUES GÓMEZ MATA, S.L.U.</b></font><br/>Remolques<br/><br/>
+    <font color="#04B404"><b>SAME DEUTZ-FAHR IBÉRICA, S.A.</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>SANTAMARÍA MERINO, S.L.</b></font><br/>Remolques, cisternas, etc.<br/><br/>
+    <font color="#04B404"><b>SEMILLAS LAGE</b></font><br/>Maquinaria de siembra<br/><br/>
+    <font color="#04B404"><b>SERMASUR, S.C.A.</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>SERNA INDUSTRIAS METÁLICAS, S.L.</b></font><br/>Industria metálica<br/><br/>
+    <font color="#04B404"><b>TALLERES VALLE</b></font><br/>Arados<br/><br/>
+    <font color="#04B404"><b>TRASUR, S.L.</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>UTV EXTREMADURA</b></font><br/>Vehículos<br/><br/>
+    <font color="#04B404"><b>VALLAS SEGEDANAS</b></font><br/>Vallados metálicos<br/><br/>
+    <font color="#04B404"><b>VEHÍCULOS Y NEUMÁTICOS PINTO</b></font><br/>Vehículos<br/><br/>
+    <font color="#04B404"><b>VIBRADORES MAI</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>VIBROMART ANADOR, S.L.U.</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>VILLENA CABEZA, MIGUEL ÁNGEL</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>VIÑATALL COSECHA Y PODA, S.L.</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>VIVEROS CASTAÑO</b></font><br/>Piscinas y viveros.<br/><br/>
+    <font color="#04B404"><b>VIVEROS PONCE LAJARA, S.L.</b></font><br/>Vivero de encinas<br/><br/>
+    ]]></item>
+    
+    
+    <item><![CDATA[
+    <font color="#04B404"><b>ACOSTA CRUZ, TERESA</b></font><br/>Kiosco de helados<br/><br/>
+    <font color="#04B404"><b>COMERCIAL EXTREMEÑA DE SNACKS, S.L.</b></font><br/>Kiosco helados<br/><br/>
+    <font color="#04B404"><b>FRIKOZAFRA, S.L.</b></font><br/>Helados<br/><br/>
+    <font color="#04B404"><b>GONZALEZ GOMEZ, GABRIEL</b></font><br/>Helados<br/><br/>
+   	<font color="#04B404"><b>GRUPO BACOGA, S.L.</b></font><br/>Helados Venega<br/><br/>
+   	<font color="#04B404"><b>LLERENA LLERENA, ÁNGEL</b></font><br/>Helados<br/><br/>
+   	<font color="#04B404"><b>NUÑO PRIETO, DAVID</b></font><br/>Helados<br/><br/>
+   	<font color="#04B404"><b>SALAZAR SALAZAR, PEDRO</b></font><br/>Helados<br/><br/>
+   	<font color="#04B404"><b>TORRES VILLADIEGO, ANTONIO JESÚS</b></font><br/>Helados Frigo<br/><br/>
+   	]]></item>
+  	
+    <item><![CDATA[
+    <font color="#04B404"><b>ALFARERÍA FRANCISCO SAAVEDRA</b></font><br/>Alfarería<br/><br/>
+   	<font color="#04B404"><b>ALFARERÍA GUISADO</b></font><br/>Alfarería<br/><br/>
+   	<font color="#04B404"><b>ALFARERÍA MANUEL ENRIQUE MONGE</b></font><br/>Alfarería<br/><br/>
+   	<font color="#04B404"><b>ALFARERÍA Y CERÁMICA IGNACIO GUILLÉN</b></font><br/>Alfarería y cerámica<br/><br/>
+   	<font color="#04B404"><b>AL-SUR</b></font><br/>Confeccion<br/><br/>
+   	<font color="#04B404"><b>ARANDA RUIZ, BLANCA</b></font><br/>Ptos. Textiles, artesanias<br/><br/>
+   	<font color="#04B404"><b>ARTE Y RAZA, S.L.</b></font><br/>Figuras en plata de caballos y toros<br/><br/>
+   	<font color="#04B404"><b>ARTEPUERTA GONZALEZ</b></font><br/>Puertas<br/><br/>
+   	<font color="#04B404"><b>BALARMOCA</b></font><br/>Artesanias<br/><br/>
+   	<font color="#04B404"><b>BASTONES MARTINEZ</b></font><br/>Bastones<br/><br/>
+   	<font color="#04B404"><b>BOLSOS TALIA, S.L.</b></font><br/>Productos textiles, cuero<br/><br/>
+    <font color="#04B404"><b>BORDADOS ARTÍSTICOS NTRA. SRA. DE LAS MERCEDES, S.L.</b></font><br/>Bordados<br/><br/>
+    <font color="#04B404"><b>CALZADOS ARRAYAS, S.L.</b></font><br/>Calzado y guarnicionería<br/><br/>
+    <font color="#04B404"><b>CANAL HOME PRODUCTS</b></font><br/>Muebles<br/><br/>
+    <font color="#04B404"><b>CASA GARCIA IBAÑEZ</b></font><br/>Menaje de hogar<br/><br/>
+    <font color="#04B404"><b>CASA VERDE INTERNACIONAL</b></font><br/>Menaje del hogar<br/><br/>
+    <font color="#04B404"><b>CERÁMICA HNOS. PÉREZ, C.B.</b></font><br/>Cerámica<br/><br/>
+    <font color="#04B404"><b>CERÁMICAS CUELLAR</b></font><br/>Azulejeria artistica<br/><br/>
+    <font color="#04B404"><b>COMERCIAL V.L. PIEL, S.L.</b></font><br/>Artesanías<br/><br/>
+    <font color="#04B404"><b>DABEL, S.C.</b></font><br/>Menaje y articulos de regalo<br/><br/>
+    <font color="#04B404"><b>DAYLU S</b></font><br/>Artesania en piel<br/><br/>
+    <font color="#04B404"><b>DISASOIBA, S.L.</b></font><br/>Botos<br/><br/>
+    <font color="#04B404"><b>FÁBRICA DE PELETERÍA ALEJO GALLARDO</b></font><br/>Peletería<br/><br/>
+    <font color="#04B404"><b>FEJIMA MODAS Y COMPLEMENTOS</b></font><br/>Productos textiles<br/><br/>
+    <font color="#04B404"><b>GALA EQUITACIÓN</b></font><br/>Guarnicionerias<br/><br/>
+    <font color="#04B404"><b>GARCÍA GARCÍA, PEDRO LUIS</b></font><br/>Calzados<br/><br/>
+    <font color="#04B404"><b>GLOBAL HUNTING IBERIA</b></font><br/>Guarnicionería<br/><br/>
+    <font color="#04B404"><b>HEREDEROS DE JOSÉ PEDRERO</b></font><br/>Joyería<br/><br/>
+    <font color="#04B404"><b>HEREDIA MALDONADO, DOLORES</b></font><br/>Textil<br/><br/>
+    <font color="#04B404"><b>HERMES ASOCIADOS, S.C.</b></font><br/>Telefonia y plateria<br/><br/>
+    <font color="#04B404"><b>KEDETAYE TIENDAS</b></font><br/>Artesanias<br/><br/>
+    <font color="#04B404"><b>LA RIENDA</b></font><br/>Articulos de piel<br/><br/>
+    <font color="#04B404"><b>MAQUICOSE</b></font><br/>Máquinas de coser<br/><br/>
+    <font color="#04B404"><b>MÁQUINAS DE COSER ZAFRA</b></font><br/>Maquinas de coser<br/><br/>
+    <font color="#04B404"><b>MARENA MODA INFANTIL</b></font><br/>Productos textiles<br/><br/>
+    <font color="#04B404"><b>MEDINA RODRIGUEZ, MANUELA</b></font><br/>Textil<br/><br/>
+    <font color="#04B404"><b>MIGUEL DURAN</b></font><br/>Artesanía en piel<br/><br/>
+    <font color="#04B404"><b>MORENO GALLEGO, PILAR</b></font><br/>Artesanías<br/><br/>
+    <font color="#04B404"><b>MORENO SILVA, JUANA</b></font><br/>Textil<br/><br/>
+    <font color="#04B404"><b>MOVISHARK EUROPA, S.L.</b></font><br/>Telefonía<br/><br/>
+    <font color="#04B404"><b>MUEBLES MUÑOZ DE Sta MARTA (Felix Muñoz)</b></font><br/>Muebles y complementos<br/><br/>
+    <font color="#04B404"><b>NATURA Y SALUD</b></font><br/>Articulos de descanso<br/><br/>
+    <font color="#04B404"><b>OLLE CERA, NURIA</b></font><br/>Regalos, cuadros Disney<br/><br/>
+    <font color="#04B404"><b>PELETERÍA DE LA HOZ</b></font><br/>Peletería<br/><br/>
+    <font color="#04B404"><b>PELETERÍAS RAFAEL GALLARDO, S.L.</b></font><br/>Peletería<br/><br/>
+    <font color="#04B404"><b>PLATA MARTÍN</b></font><br/>Artesanias-joyas<br/><br/>
+    <font color="#04B404"><b>PLATERÍA CARMEN MARTINEZ</b></font><br/>Platería, relojería<br/><br/>
+    <font color="#04B404"><b>PRADOS CONDE, MANUEL</b></font><br/>Fotografía ecuestre<br/><br/>
+    <font color="#04B404"><b>RODATEX, S.C. (BRITISH COTTON)</b></font><br/>Productos textiles<br/><br/>
+    <font color="#04B404"><b>SP LEATHER (José Luis Sanchez-Palencia Garcia)</b></font><br/>Productos textiles, cuero<br/><br/>
+    <font color="#04B404"><b>THE TIME OF BOCHA</b></font><br/>Textil<br/><br/>
+    <font color="#04B404"><b>TIENDA DE EQUITACION PASSAGE</b></font><br/>Tienda de equitación<br/><br/>
+    <font color="#04B404"><b>YOJAN PIEL</b></font><br/>Productos textiles<br/><br/>
+    <font color="#04B404"><b>ZDZISLAWA CZERNIAK</b></font><br/>Joyería de ambar y plata<br/><br/>
+    <font color="#04B404"><b>ZYLBERBERG SHILMAN, JUDITH</b></font><br/>Bisuteria<br/><br/>
+    ]]></item>
+   
+    <item><![CDATA[
+    <font color="#04B404"><b>ACERO VAZQUEZ E HIJOS, S.L.</b></font><br/>Embutidos<br/><br/>
+    <font color="#04B404"><b>ACOREX, S.C.L.</b></font><br/>Cooperativa agricola<br/><br/>
+    <font color="#04B404"><b>AGROMOISE</b></font><br/>Maquinaria agricola<br/><br/>
+    <font color="#04B404"><b>ANCPA-Associaçao Nacional de Criadores de Porco Alentejano</b></font><br/>Asociacion porcino Alentejano<br/><br/>
+    <font color="#04B404"><b>AYSOL EXTREMADURA</b></font><br/>Energias renovables<br/><br/>
+    <font color="#04B404"><b>BASCULAS MADRUGA</b></font><br/>Basculas de comercio<br/><br/>
+    <font color="#04B404"><b>BIG DUTCHMAN IBERICA, S.A.</b></font><br/>Maquinaria agricola<br/><br/>
+    <font color="#04B404"><b>CENTRO TECNOLÓGICO DE FEVAL</b></font><br/>Institucion de servicios<br/><br/>
+    <font color="#04B404"><b>COMERCIAL VERY CLEAN</b></font><br/>Menaje industrial<br/><br/>
+    <font color="#04B404"><b>CONSTRUCCIONES ANGEL REYES</b></font><br/>Produc. Bloque de tierra<br/><br/>
+    <font color="#04B404"><b>CUCHILLERÍA FLORES DON BENITO, S.L.L.</b></font><br/>Cuchilleria<br/><br/>
+    <font color="#04B404"><b>DAMAR PRODUTORA DE QUEIJOS LDA</b></font><br/>Quesos<br/><br/>
+    <font color="#04B404"><b>EL GANADERO EXTREMEÑO, S.L.</b></font><br/>Alimentacion<br/><br/>
+    <font color="#04B404"><b>EL PREDIO BALEAR</b></font><br/>Quesos<br/><br/>
+    <font color="#04B404"><b>EMBUTIDOS FILI</b></font><br/>Alimentacion<br/><br/>
+    <font color="#04B404"><b>EMBUTIDOS SIERRA BLAZQUEÑA, S.L.</b></font><br/>Embutidos<br/><br/>
+    <font color="#04B404"><b>EMBUTIDOS Y JAMONES IBÉRICOS CADENAS</b></font><br/>Alimentacion<br/><br/>
+    <font color="#04B404"><b>EQUIPORAVE- Soc. de Equipamentos para Pecuaria, S.A.</b></font><br/>Material avicola y porcino<br/><br/>
+    <font color="#04B404"><b>ETXEBERRÍA ETXEBERRÍA, JOSE MANUEL</b></font><br/>Alimentacion<br/><br/>
+    <font color="#04B404"><b>EXTREFRIGAL</b></font><br/>Estanterias y equipamiento<br/><br/>
+    <font color="#04B404"><b>FONTANERÍA Y REPARACIÓN ORELLANA</b></font><br/>Fontaneria y reparacion<br/><br/>
+    <font color="#04B404"><b>FRANCISCO MANUEL NUNES</b></font><br/>Herramientas almendras, etc<br/><br/>
+    <font color="#04B404"><b>GRUPO BACOGA (Quesería de Ulla Galicia)</b></font><br/>Quesos<br/><br/>
+    <font color="#04B404"><b>HORNO DE TENTUDÍA, S.L.</b></font><br/>Dulces<br/><br/>
+    <font color="#04B404"><b>ID ENERGIA SOLAR, S.L.</b></font><br/>Energias renovables<br/><br/>
+    <font color="#04B404"><b>INSTALACIONES GANADERAS</b></font><br/>Instalaciones<br/><br/>
+    <font color="#04B404"><b>GANAPEN, S.L.</b></font><br/>Ganaderas<br/><br/>
+    <font color="#04B404"><b>JAMÓN Y SALUD, S.A.</b></font><br/>Agroalimentarios<br/><br/>
+    <font color="#04B404"><b>JAMONES GARZÓN, PRODUCTOS IBÉRICOS DE MONTANERA, S.L.</b></font><br/>Productos Cárnicos<br/><br/>
+    <font color="#04B404"><b>JOAQUÍN LUNA E HIJOS, S.L.</b></font><br/>Jamonería<br/><br/>
+    <font color="#04B404"><b>LA DEHESA DE VELEZ</b></font><br/>Alimentación<br/><br/>
+    <font color="#04B404"><b>LA VIRGEN DE EXTREMADURA</b></font><br/>Agroalimentarios<br/><br/>
+    <font color="#04B404"><b>LABORATORIOS ZOTAL</b></font><br/>Productos zoosanitarios<br/><br/>
+    <font color="#04B404"><b>MALLAS IGLEGAR, S.L.</b></font><br/>Material ganadero<br/><br/>
+    <font color="#04B404"><b>MAQUINARÍA AGRÍCOLA CAMARA</b></font><br/>Maquinaria industrial<br/><br/>
+    <font color="#04B404"><b>MAQUINARÍA AGROPECUARIA GUADAIRA</b></font><br/>Maquinaria agrícola<br/><br/>
+    <font color="#04B404"><b>MARTINEZ CALERO, JUAN</b></font><br/>Cuchilleria<br/><br/>
+    <font color="#04B404"><b>MATERIALES DE CONST. HNOS. BERNABE, S.L.</b></font><br/>Materiales de construcción<br/><br/>
+    <font color="#04B404"><b>MECAFA, S.A.</b></font><br/>Molinos y mezcladoras<br/><br/>
+    <font color="#04B404"><b>MENDEZ ARAGÜETE ASOCIADOS, S.L.</b></font><br/>Arbustos espinosos<br/><br/>
+    <font color="#04B404"><b>METALGAN ARROYO, S.L.</b></font><br/>Maquinaria ganadera.<br/><br/>
+    <font color="#04B404"><b>METALICAS PASCUAL 2009, S.L.U.</b></font><br/>Barbacoas y alfareria<br/><br/>
+    <font color="#04B404"><b>MONTE PORRINO, S.C.L.</b></font><br/>Agroalimentarios<br/><br/>
+    <font color="#04B404"><b>MUKULUWORLD, S.L.</b></font><br/>Accesorios del Vino<br/><br/>
+    <font color="#04B404"><b>NANTA, S.A.</b></font><br/>Productos zoosanitarios<br/><br/>
+    <font color="#04B404"><b>NATURSER, S.C.</b></font><br/>Quesos<br/><br/>
+    <font color="#04B404"><b>NORTHGATE ESPAÑA RENTING FLEXIBLE</b></font><br/>Renting de vehículos<br/><br/>
+    <font color="#04B404"><b>NUTRICIÓN ESPECIAL, S.L.</b></font><br/>Productos zoosanitarios<br/><br/>
+    <font color="#04B404"><b>PASTELERIA CANELA</b></font><br/>Pasteleria<br/><br/>
+    <font color="#04B404"><b>PINTO Y EL JAMON DE BELLOTA, S.L.</b></font><br/>Quesos<br/><br/>
+    <font color="#04B404"><b>PRECAZASA, S.A.</b></font><br/>Embutidos de animales de caza<br/><br/>
+    <font color="#04B404"><b>QUESERIA TIERRA DE BARROS, S.L.</b></font><br/>Agroalimentarios<br/><br/>
+    <font color="#04B404"><b>QUESOS LOS VAZQUEZ, S.L.</b></font><br/>Quesos<br/><br/>
+    <font color="#04B404"><b>REPRESENTACIONES SALMAR</b></font><br/>Alimentacion<br/><br/>
+    <font color="#04B404"><b>RIVERO SUDON, S.L.</b></font><br/>Energía solar<br/><br/>
+    <font color="#04B404"><b>SANTA LUCIA, S.A., Compañia de Seguros y Reaseguros</b></font><br/>Seguros<br/><br/>
+    <font color="#04B404"><b>SERCOMALLA POZOBLANCO, S.L.</b></font><br/>Material cerramiento de fincas<br/><br/>
+    <font color="#04B404"><b>SERENA PURA, S.L.U.</b></font><br/>Quesos y tortas de la Serena<br/><br/>
+    <font color="#04B404"><b>SIERRA EXTREMEÑA</b></font><br/>Embutidos<br/><br/>
+    <font color="#04B404"><b>SIERRA GRANDE DE HORNACHOS, S.L.</b></font><br/>Alimentación<br/><br/>
+    <font color="#04B404"><b>SOSERCOVE, S.L.</b></font><br/>Laboratorio análisis alimentos<br/><br/>
+    <font color="#04B404"><b>SUMINISTROS GANADEROS ANDALUCES, S.L.</b></font><br/>Material ganadero<br/><br/>
+    <font color="#04B404"><b>SYMAGA</b></font><br/>Instalaciones agricolas y ganaderas<br/><br/>
+    <font color="#04B404"><b>TALLERES GORDILLO</b></font><br/>Agrícola y jardinería<br/><br/>
+    <font color="#04B404"><b>TECNOCE, S.L.</b></font><br/>Energias renovables<br/><br/>
+    <font color="#04B404"><b>TECNOLOGÍA ECOLÓGICA PARA EL HOGAR S.L.</b></font><br/>Servicios-Hogar<br/><br/>
+    <font color="#04B404"><b>TROUW NUTRITION ESPAÑA</b></font><br/>Correctores de animales<br/><br/>
+    <font color="#04B404"><b>VIVERHONDON, S.L.</b></font><br/>Viveros<br/><br/>
+    <font color="#04B404"><b>VIVEROS CARRETERO, C.B.</b></font><br/>Viveros<br/><br/>
+    ]]></item>
+    
+     <item><![CDATA[
+    <font color="#04B404"><b>ACCESORIOS PÁJAROS</b></font><br/>Llaveros y accesorios<br/><br/>
+    <font color="#04B404"><b>AGROTEC</b></font><br/>Instalaciones cinegéticas<br/><br/>
+    <font color="#04B404"><b>ARCHI TOP S.A.</b></font><br/>Herramientas agrícolas<br/><br/>
+    <font color="#04B404"><b>ARTE Y RAZA, S.L</b></font><br/>Arte Caza<br/><br/>
+    <font color="#04B404"><b>AVIMAN, S.L.</b></font><br/>Granja Avícola<br/><br/>
+    <font color="#04B404"><b>CHIRIMEROS ALTOS</b></font><br/>Granja de perdices<br/><br/>
+    <font color="#04B404"><b>CINEGÉTICA INCUMOI</b></font><br/>Granjas cinegéticas<br/><br/>
+    <font color="#04B404"><b>CINEGÉTICA JABALQUINTO</b></font><br/>Granja cinégetica<br/><br/>
+    <font color="#04B404"><b>COLONOS PIEL DE UBRIQUE</b></font><br/>Articulos de marroquinería<br/><br/>
+    <font color="#04B404"><b>DISASOIBA</b></font><br/>Botos<br/><br/>
+    <font color="#04B404"><b>EDICIONES GRAN DUQUE</b></font><br/>Libros y videos<br/><br/>
+    <font color="#04B404"><b>EL OREGANAL</b></font><br/>Explotación avícola<br/><br/>
+    <font color="#04B404"><b>EUROCANARI</b></font><br/>Pajarería<br/><br/>
+    <font color="#04B404"><b>FODDER, S.L.L.</b></font><br/>Instalaciones cinegéticas.<br/><br/>
+    <font color="#04B404"><b>GRANJA CINEGÉTICA DEHESA BOYAL</b></font><br/>Perdíces<br/><br/>
+    <font color="#04B404"><b>GRANJA CINEGÉTICA EL PLANTEL</b></font><br/>Granjas cinegéticas<br/><br/>
+    <font color="#04B404"><b>GRANJA ST CLARO</b></font><br/>Granja de perdices<br/><br/>
+    <font color="#04B404"><b>HEREDIA MALDONADO, DOLORES..</b></font><br/>Textil<br/><br/>
+    <font color="#04B404"><b>JAULEX.COM</b></font><br/>Cinegética<br/><br/>
+    <font color="#04B404"><b>LAGUNES, S.L.</b></font><br/>Trofeos<br/><br/>
+    <font color="#04B404"><b>PAJARERIA LA FUENSANTA</b></font><br/>Granjas cinegéticas<br/><br/>
+    <font color="#04B404"><b>PRADOS CONDE, MANUEL</b></font><br/>Fotografía ecuestre<br/><br/>
+    <font color="#04B404"><b>SANCHEZ GALA, GABRIEL</b></font><br/>Guarnicionería<br/><br/>
+    ]]></item>
+    
+     <item><![CDATA[
+    <font color="#04B404"><b>APAG EXTREMADURA ASAJA</b></font><br/>Organización agraria<br/><br/>
+    <font color="#04B404"><b>CAMARA MUNICIPAL DE ESTREMOZ</b></font><br/>Institución<br/><br/>
+    <font color="#04B404"><b>CENTRO DE DESARROLLO RURAL ZAFRA-RIO BODION</b></font><br/>Institución<br/><br/>
+    <font color="#04B404"><b>Consejería Fomento, Vivienda, Ordenac. Territorio y Turismo</b></font><br/>Institución<br/><br/>
+    <font color="#04B404"><b>CONSORCIO PROMEDIO (DIPUTACIÓN DE BADAJOZ)</b></font><br/>Empresa de servicios<br/><br/>
+    <font color="#04B404"><b>COOPERATIVAS AGRO-ALIMENTARIAS EXTREMADURA</b></font><br/>Institución<br/><br/>
+    <font color="#04B404"><b>DIPUTACION PROVINCIAL DE CACERES</b></font><br/>Institución<br/><br/>
+    <font color="#04B404"><b>EXTRAUTO, S.A.</b></font><br/>Venta de vehiculos<br/><br/>
+    <font color="#04B404"><b>FACULTAD DE VETERINARIA</b></font><br/>Veterinaria<br/><br/>
+    <font color="#04B404"><b>NERBE/AEBAL</b></font><br/>Empresa de servicios<br/><br/>
+    <font color="#04B404"><b>UPA-UCE EXTREMADURA</b></font><br/>Institución<br/><br/>
+    ]]></item>
+    
+    <item><![CDATA[
+    <font color="#04B404"><b>AVILES ALVAREZ, CONCEPCION</b></font><br/>Hamburguesería<br/><br/>
+    <font color="#04B404"><b>GALLARDO FERNANDEZ, MANUEL</b></font><br/>Hamburguesería<br/><br/>
+    <font color="#04B404"><b>GOMEZ PACHECO, PEDRO</b></font><br/>Hamburguesería<br/><br/>
+    <font color="#04B404"><b>JIMENEZ ROMAN, PEDRO JOSE</b></font><br/>Bollería<br/><br/>
+    <font color="#04B404"><b>MOLINA VAZQUEZ, TOMAS</b></font><br/>Hamburguesería<br/><br/>
+    <font color="#04B404"><b>SACRAMENTO GUIRADO DEL ROJ, TERESA</b></font><br/>Hamburguesería<br/><br/>
+    ]]></item>
+    
+    <item><![CDATA[
+    <font color="#04B404"><b>AGARD LAURENT</b></font><br/>Restaurante<br/><br/>
+    <font color="#04B404"><b>CANDELA SEQUERA, ABRAHAM</b></font><br/>Hamburguesería<br/><br/>
+    <font color="#04B404"><b>CANDELA SEQUERA, MANUEL</b></font><br/>Restaurante<br/><br/>
+    <font color="#04B404"><b>CHOCOLATERIA HNOS. PERNIA, S.L.</b></font><br/>Chocolatería-Churrería<br/><br/>
+    <font color="#04B404"><b>COCEDERO DE MARISCOS EL GARY</b></font><br/>Marisquería<br/><br/>
+    <font color="#04B404"><b>JARDÍNES MENESES MARTÍNEZ, S.L.</b></font><br/>Churrería-Chocolatería<br/><br/>
+    <font color="#04B404"><b>JORGE JULIA LLOPART</b></font><br/>Alimentación (Bar)<br/><br/>
+    <font color="#04B404"><b>MESON SANTA ANA</b></font><br/>Mesón<br/><br/>
+    <font color="#04B404"><b>MORALES SORIA, AGUSTIN</b></font><br/>Mesón Taifa<br/><br/>
+    <font color="#04B404"><b>VARGAS FABIAN, ANA LUCÍA</b></font><br/>Comida picante<br/><br/>
+    ]]></item>
+    
+    </string-array>
+   
+</resources>

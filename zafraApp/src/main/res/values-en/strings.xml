@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Visita Zafra</string>
+   
+   <string name="opcionespanol">Espanol</string>
+    <string name="opcioningles">English</string>
+    
+    <string name = "btnidioma">Language</string>
+    <string name = "qr">QR Reader</string>
+    
+    <string name = "conexion">No internet connection detected&#8230;</string>
+    <string name = "salir">Are you sure you want to exit?</string>
+    <string name = "afirmativo">Yes</string>
+    <string name = "negativo">No</string>
+    <string name = "esperar">Wait</string>
+    <string name = "cargar">Calendar Loading&#8230;</string>
+   
+    <string name = "imgbtnmonumentoscontentdescription">Ver Monumentos</string>
+   
+</resources>

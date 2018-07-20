@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@android:style/Theme.NoTitleBar"
+    android:orientation="vertical"
+    >
+     
+	<ImageView
+            android:id="@+id/imagenfondoCategoriasAlojamientos"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:contentDescription="@null"
+            />
+	
+    <ScrollView
+        android:id="@+id/scrollcustomCategoriasAlojamientos"
+       	android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:layout_below="@+id/imgViewCategoriaAlojamientos"
+    	android:layout_above="@+id/btnbarrainferiorCategoriaAlojamientos"
+    	android:layout_alignParentTop="true"
+    	android:layout_centerHorizontal="true"
+    	android:fadeScrollbars="false"
+    	android:scrollbarSize="5dp"
+    	android:scrollbarThumbVertical="@drawable/res_auxiliar_scrollstyle"
+    	android:layout_marginTop="190dp" 
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:id="@+id/imgbtnHoteles"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:adjustViewBounds="true"
+          		android:scaleType="centerCrop"
+                android:contentDescription="@null" 
+                android:layout_margin="0.1dp"
+                android:layout_marginTop="5dp" 
+                android:src="@drawable/estado_boton_hoteles"
+                android:onClick="verHoteles"
+                />
+
+            <ImageButton
+                android:id="@+id/imgbtnHostales"
+                android:layout_width="match_parent" 
+                android:layout_height="match_parent" 
+                android:background="@null"
+                android:adjustViewBounds="true"
+          		android:scaleType="centerCrop"
+                android:layout_margin="0.1dp"
+                android:src="@drawable/estado_boton_hostales"
+                android:onClick="verHostales"
+                android:contentDescription="@null"
+                 />
+
+            <ImageButton
+                android:id="@+id/imgbtnApartamentos"
+                android:layout_width="match_parent" 
+                android:layout_height="match_parent" 
+                android:background="@null"
+                android:adjustViewBounds="true"
+          		android:scaleType="centerCrop"
+                android:layout_margin="0.1dp"
+                android:src="@drawable/estado_boton_apartamentos"
+                android:onClick="verApartamentos"
+                android:contentDescription="@null"
+                 />
+
+            <ImageButton
+                android:id="@+id/imgbtnRural"
+                android:layout_width="match_parent" 
+                android:layout_height="match_parent" 
+                android:background="@null"
+                android:adjustViewBounds="true"
+          		android:scaleType="centerCrop"
+                android:layout_margin="0.1dp"
+                android:src="@drawable/estado_boton_rural"
+                android:onClick="verRural"
+                android:contentDescription="@null"
+                />
+
+            <ImageButton
+                android:id="@+id/imgbtnAlbergues"
+                android:layout_width="match_parent" 
+                android:layout_height="match_parent" 
+                android:background="@null"
+                android:adjustViewBounds="true"
+          		android:scaleType="centerCrop"
+                android:layout_margin="0.1dp"
+                android:src="@drawable/estado_boton_albergues"
+                android:onClick="verAlbergues"
+                android:contentDescription="@null"
+                 />
+
+           
+
+        </LinearLayout>
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/imgViewCategoriaAlojamientos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="140dp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/boton_menuprincipal_alojamientoazul" 
+        android:contentDescription="@null"/>
+    <ImageView
+        android:id="@+id/btnbarrainferiorCategoriaAlojamientos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/boton_barra_inferior" 
+        android:contentDescription="@null"
+        />
+
+</RelativeLayout>

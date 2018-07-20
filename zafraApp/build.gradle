@@ -1,0 +1,40 @@
+apply plugin: 'com.android.application'
+
+android {
+
+    compileSdkVersion 27
+    buildToolsVersion '27.0.3'
+    defaultConfig {
+        applicationId "ayto.zafrApp"
+        minSdkVersion 14
+        targetSdkVersion 27
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+    //inspeccionar para mejorar rendimiento->Analyze/Inspect Code
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+}
+
+dependencies {
+    implementation project(':library')
+    implementation project(':captureActivity')
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+
+    //implementar manualmente una version mas moderna de la libreria(version interna mas antigua)
+    implementation 'com.android.support:support-media-compat:27.1.1'
+    implementation 'com.android.support:support-v4:27.1.1'
+
+    implementation 'com.android.support.constraint:constraint-layout:1.1.2'
+    implementation 'com.google.firebase:firebase-core:16.0.1'
+
+}
+apply plugin: 'com.google.gms.google-services'

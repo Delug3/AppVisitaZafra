@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Napst\\StudioProjects\\ZafraApp\\zafraApp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Napst\\StudioProjects\\ZafraApp\\zafraApp\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "33,39,22,45",
+                        "startColumns": "1,1,1,1",
+                        "startOffsets": "1767,2228,827,2596",
+                        "endLines": "38,42,32,48",
+                        "endColumns": "10,10,10,10",
+                        "endOffsets": "2225,2509,1764,2857"
+                    },
+                    "to": {
+                        "startLines": "2,8,12,23",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,513,796,1728",
+                        "endLines": "7,11,22,26",
+                        "endColumns": "10,10,10,10",
+                        "endOffsets": "508,791,1723,1986"
+                    }
+                }
+            ]
+        }
+    ]
+}

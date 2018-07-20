@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layoutdrawer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@android:style/Theme.NoTitleBar"
+    android:orientation="vertical"
+    ><ImageView android:id="@+id/imagenfondoCategoriasRestaurantes" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop" android:contentDescription="@null" />
+    <ScrollView android:id="@+id/scrollcustomCategoriasRestaurantes" 
+        android:layout_width="match_parent" android:layout_height="wrap_content" 
+        android:layout_below="@+id/imgViewCategoriaRestaurantes" 
+        android:layout_above="@+id/btnbarrainferiorCategoriaRestaurantes" 
+        android:layout_alignParentTop="true" 
+        android:layout_centerHorizontal="true" 
+        android:fadeScrollbars="false"
+    	android:scrollbarSize="5dp"
+    	android:scrollbarThumbVertical="@drawable/res_auxiliar_scrollstyle"
+        android:layout_marginTop="190dp">
+
+        <LinearLayout 
+            android:layout_width="match_parent" 
+            android:layout_height="wrap_content" 
+            android:orientation="vertical" 
+            android:gravity="center">
+
+            
+            <ImageButton 
+                android:id="@+id/imgbtnTradicional" 
+                android:layout_width="match_parent" 
+                android:layout_height="match_parent" 
+                android:background="@null"
+                android:adjustViewBounds="true"
+          		android:scaleType="centerCrop"
+                android:contentDescription="@null" 
+                android:layout_margin="0.1dp"
+                android:layout_marginTop="5dp" 
+                android:src="@drawable/estado_boton_cocinatradicional" 
+                android:onClick="verCocinaTradicional" />
+
+            <ImageButton 
+                android:id="@+id/imgbtnInternacional" 
+                android:layout_width="match_parent" 
+                android:layout_height="match_parent" 
+                android:background="@null"
+                android:adjustViewBounds="true"
+          		android:scaleType="centerCrop"
+                android:layout_margin="0.1dp"
+                android:onClick="verCocinaInternacional" 
+                android:src="@drawable/estado_boton_cocinainternacional"
+                android:contentDescription="@null" />
+
+            <ImageButton 
+                android:id="@+id/imgbtnCarta" 
+                android:onClick="verCocinaAlaCarta" 
+                android:layout_width="match_parent" 
+                android:layout_height="match_parent" 
+                android:background="@null"
+                android:adjustViewBounds="true"
+          		android:scaleType="centerCrop"
+                android:layout_margin="0.1dp"
+                android:src="@drawable/estado_boton_alacarta"
+                android:contentDescription="@null" />
+
+            <ImageButton 
+                android:id="@+id/imgbtnTapas" 
+                android:layout_width="match_parent" 
+                android:layout_height="match_parent" 
+                android:background="@null"
+                android:adjustViewBounds="true"
+          		android:scaleType="centerCrop"
+                android:layout_margin="0.1dp"
+                android:src="@drawable/estado_boton_tapas"
+                android:onClick="verCocinaTapas" 
+                android:contentDescription="@null" />
+
+            <ImageButton 
+                android:id="@+id/imgbtnLlevar" 
+                android:layout_width="match_parent" 
+                android:layout_height="match_parent" 
+                android:background="@null"
+                android:adjustViewBounds="true"
+          		android:scaleType="centerCrop"
+                android:layout_margin="0.1dp"
+                android:src="@drawable/estado_boton_parallevar"
+                android:onClick="verCocinaLlevar" 
+                android:contentDescription="@null" />
+
+            <ImageButton 
+                android:id="@+id/imgbtnCatering" 
+                android:layout_width="match_parent" 
+                android:layout_height="match_parent" 
+                android:background="@null"
+                android:adjustViewBounds="true"
+          		android:scaleType="centerCrop"
+                android:layout_margin="0.1dp"
+                android:src="@drawable/estado_boton_catering"
+                android:onClick="verCocinaCatering" 
+                android:contentDescription="@null" />
+
+        </LinearLayout>
+    </ScrollView><ImageView 
+        android:id="@+id/imgViewCategoriaRestaurantes" 
+        android:layout_width="match_parent" 
+        android:layout_height="wrap_content" 
+        android:layout_alignParentTop="true" 
+        android:layout_centerHorizontal="true" 
+        android:layout_marginTop="140dp" 
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/boton_menuprincipal_dondecomerazul" 
+        android:contentDescription="@null" />
+    
+    <ImageView android:id="@+id/btnbarrainferiorCategoriaRestaurantes" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="@null" android:adjustViewBounds="true"
+          	android:scaleType="centerCrop" android:layout_alignParentBottom="true" android:layout_alignParentLeft="true" android:src="@drawable/boton_barra_inferior" android:contentDescription="@null" /></RelativeLayout>
+
+	
+
+

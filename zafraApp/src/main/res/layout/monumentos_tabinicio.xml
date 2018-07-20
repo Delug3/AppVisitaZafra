@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout4"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F1F1F1">
+
+    <ImageView
+        android:id="@+id/imgViewImagenMonumento"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="3dp"
+        android:adjustViewBounds="true"
+        android:contentDescription="@null"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toTopOf="@+id/txtNombreMonumento"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtNombreMonumento"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/tagDireccionMonumento"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgViewImagenMonumento" />
+
+
+    <TextView
+        android:id="@+id/tagHorarioMonumento"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/horario"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        app:layout_constraintBaseline_toBaselineOf="@+id/txtHorarioMonumento"
+        app:layout_constraintStart_toStartOf="@+id/tagTelefonoMonumento" />
+
+    <TextView
+        android:id="@+id/tagDireccionMonumento"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="217dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="218dp"
+        android:text="@string/direccion"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/barrainferior"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tagTelefonoMonumento"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/telefono"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/tagDireccionMonumento"
+        app:layout_constraintTop_toBottomOf="@+id/tagDireccionMonumento" />
+
+    <TextView
+        android:id="@+id/txtDireccionMonumento"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:layout_marginStart="4dp"
+        app:layout_constraintStart_toEndOf="@+id/tagDireccionMonumento"
+        app:layout_constraintTop_toTopOf="@+id/tagDireccionMonumento" />
+
+    <TextView
+        android:id="@+id/txtTelefonoMonumento"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:layout_marginStart="4dp"
+        app:layout_constraintStart_toEndOf="@+id/tagTelefonoMonumento"
+        app:layout_constraintTop_toTopOf="@+id/tagTelefonoMonumento" />
+
+    <TextView
+        android:id="@+id/txtHorarioMonumento"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="3dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="3dp"
+        android:layout_marginStart="4dp"
+        app:layout_constraintEnd_toEndOf="@+id/tagTelefonoMonumento"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/tagHorarioMonumento"
+        app:layout_constraintTop_toBottomOf="@+id/tagTelefonoMonumento" />
+
+    <ImageView
+        android:id="@+id/imgViewLocMonumentos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:contentDescription="@null"
+        android:onClick="VerGPSLOC"
+        android:src="@drawable/estado_boton_gpsaqui"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tagHorarioMonumento" />
+
+    <ImageView
+        android:id="@+id/imgViewRutaMonumentos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginTop="32dp"
+        android:contentDescription="@null"
+        android:onClick="VerGPS"
+        android:src="@drawable/estado_boton_gpsruta"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tagHorarioMonumento" />
+
+
+    <ImageView
+        android:id="@+id/barrainferior"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:background="@null"
+        android:contentDescription="@null"
+        android:scaleType="centerCrop"
+        android:src="@drawable/boton_barra_inferior"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"  />
+</android.support.constraint.ConstraintLayout>

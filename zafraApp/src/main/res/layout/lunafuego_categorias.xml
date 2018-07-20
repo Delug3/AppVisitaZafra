@@ -1,0 +1,110 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@android:style/Theme.NoTitleBar"
+    android:orientation="vertical"
+    >
+     
+	<ImageView
+            android:id="@+id/imagenfondoCategoriasLunaFuego"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+             android:contentDescription="@null"
+            />
+	
+    <ScrollView
+        android:id="@+id/scrollcustomCategoriasLunaFuego"
+       	android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:layout_below="@+id/imgViewCategoriaLunaFuego"
+    	android:layout_above="@+id/btnbarrainferiorCategoriaLunaFuego"
+    	android:layout_alignParentTop="true"
+    	android:layout_centerHorizontal="true"
+    	android:layout_marginTop="150dp" 
+    	android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:id="@+id/imgbtnProgramacionLunaFuego"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:adjustViewBounds="true"
+          		android:scaleType="centerCrop"
+                android:contentDescription="@null" 
+                android:layout_margin="0.1dp"
+                android:layout_marginTop="5dp" 
+                android:onClick="verProgramacion_Lista"
+                />
+            <ImageButton
+                android:id="@+id/imgbtnActividadesLunaFuego"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:adjustViewBounds="true"
+          		android:scaleType="centerCrop"
+                android:contentDescription="@null" 
+                android:layout_margin="0.1dp"
+                android:onClick="verActividades_Lista"
+                />
+<ImageButton
+                android:id="@+id/imgbtnMapaLunaFuego"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:adjustViewBounds="true"
+          		android:scaleType="centerCrop"
+                android:contentDescription="@null" 
+                android:layout_margin="0.1dp"
+                android:onClick="verMapa_LunaFuego"
+                />
+<ImageButton
+                android:id="@+id/imgbtnGaleriaLunaFuego"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:adjustViewBounds="true"
+          		android:scaleType="centerCrop"
+                android:contentDescription="@null" 
+                android:layout_margin="0.1dp"
+                android:onClick="verGaleria_LunaFuego"
+                />
+
+            
+           
+
+        </LinearLayout>
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/imgViewCategoriaLunaFuego"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:contentDescription="@null"/>
+    <ImageView
+        android:id="@+id/btnbarrainferiorCategoriaLunaFuego"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/boton_barra_inferior" 
+        android:contentDescription="@null"
+        />
+
+</RelativeLayout>

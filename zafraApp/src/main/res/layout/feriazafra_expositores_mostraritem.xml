@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F1F1F1" >
+
+    <ScrollView
+        android:id="@+id/scrollTabInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:scrollbarSize="5dp"
+        android:scrollbarThumbVertical="@drawable/res_auxiliar_scrollstyle"
+        
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+            >
+
+            <WebView
+ 				android:id="@+id/expositores"
+ 				android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="48dp"
+                android:lineSpacingExtra="2dp"
+                android:textSize="16sp"
+               
+ 				 />
+<LinearLayout 
+android:id="@+id/layoutIdExpositores"  
+android:orientation="horizontal"  
+android:layout_width="wrap_content"  
+android:layout_height="wrap_content" 
+android:layout_marginTop="30dp"
+></LinearLayout>
+
+
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+        <TextView
+            android:id="@+id/zona"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@color/azul"
+            android:textColor="@color/blanco"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+</RelativeLayout>

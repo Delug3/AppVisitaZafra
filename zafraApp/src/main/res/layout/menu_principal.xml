@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+      
+        >
+        
+        <ImageView
+            android:id="@+id/imagenfondo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:contentDescription="@null"
+            />
+              
+		<ScrollView
+    		android:id="@+id/scrollcustom"
+    		android:layout_width="match_parent"
+    		android:layout_height="wrap_content"
+    		android:layout_above="@+id/btnbarrainferior"
+    		android:layout_alignParentTop="true"
+    		android:layout_centerHorizontal="true"
+    		android:layout_marginTop="140dp" 
+    		android:fadeScrollbars="false"
+    		android:scrollbarSize="5dp"
+    		android:scrollbarThumbVertical="@drawable/res_auxiliar_scrollstyle">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/btnconocezafra"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@null"
+           	android:adjustViewBounds="true"
+          	android:scaleType="centerCrop"
+            android:onClick="verZafra"
+            android:layout_margin="0.1dp"
+            android:src="@drawable/estado_boton_conocezafra" 
+            android:contentDescription="@string/imgbtnmonumentoscontentdescription"
+          />
+
+        <ImageButton
+            android:id="@+id/btnrestaurantes"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@null"
+		    android:adjustViewBounds="true"
+          android:scaleType="centerCrop"
+            android:layout_margin="0.1dp"
+            android:onClick="verCategoriasRestaurantes"
+            android:src="@drawable/estado_boton_restaurantes"
+            android:contentDescription="@null"
+            />
+
+        <ImageButton
+            android:id="@+id/btnalojamientos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="verCategoriasAlojamientos"
+            android:background="@null"
+		    android:adjustViewBounds="true"
+          android:scaleType="centerCrop"
+            android:layout_margin="0.1dp"
+            android:src="@drawable/estado_boton_alojamientos"
+            android:contentDescription="@null"
+            />
+
+        
+        <ImageButton
+            android:id="@+id/btnnoticias"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="verRssNoticias"
+            android:background="@null"
+		    android:adjustViewBounds="true"
+          android:scaleType="centerCrop"
+            android:layout_margin="0.1dp"
+            android:src="@drawable/estado_boton_noticias"
+            android:contentDescription="@null"
+           />
+
+        <ImageButton
+            android:id="@+id/btnagenda"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="verAgenda"
+            android:background="@null"
+		    android:adjustViewBounds="true"
+          android:scaleType="centerCrop"
+            android:layout_margin="0.1dp"
+            android:src="@drawable/estado_boton_agenda"
+            android:contentDescription="@null"
+            />
+
+        <ImageButton
+            android:id="@+id/btnferia"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@null"
+		    android:adjustViewBounds="true"
+          android:scaleType="centerCrop"
+            android:layout_margin="0.1dp"
+            android:src="@drawable/estado_boton_feria"
+            android:onClick="CategoriasFeria"
+            android:contentDescription="@null"
+            />
+        <ImageButton
+            android:id="@+id/btnlunafuego"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:onClick="CategoriasLunaFuego"
+            android:background="@null"
+		    android:adjustViewBounds="true"
+          android:scaleType="centerCrop"
+            android:layout_margin="0.1dp"
+            android:contentDescription="@null"
+           />
+        
+
+        <ImageButton
+            android:id="@+id/btnmas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@null"
+		    android:adjustViewBounds="true"
+          android:scaleType="centerCrop"
+            android:layout_margin="0.1dp"
+            android:src="@drawable/estado_boton_mas"
+            android:onClick="verMas"
+            android:contentDescription="@null"
+            />
+
+        
+</LinearLayout>
+</ScrollView>
+
+       <ImageView
+        android:id="@+id/btnbarrainferior"
+         android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+       
+        android:adjustViewBounds="true"
+          android:scaleType="centerCrop"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/boton_barra_inferior" 
+        android:contentDescription="@null"
+        />
+
+    <Button
+        android:id="@+id/btnidiomasleccion"
+         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:visibility="gone"
+        android:text="@string/btnidioma" />
+    
+</RelativeLayout>
