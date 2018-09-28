@@ -7,12 +7,11 @@ import java.util.Locale;
 import java.util.Random;
 
 import ayto.zafrApp.BuildConfig;
-import lunaalfuego.Categorias_LunaFuego;
-import restaurantes.Restaurantes_Categorias;
-import rss.RssNoticias;
-import alojamientos.Alojamientos_Categorias;
+import lunaalfuego.activities.Categorias_LunaFuego_Activity;
+import restaurantes.activities.Restaurantes_Categorias_Activity;
+import rss.activities.RssNoticias_Activity;
+import alojamientos.activities.Alojamientos_Categorias_Activity;
 
-import android.Manifest;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
@@ -20,7 +19,6 @@ import android.content.ActivityNotFoundException;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.content.pm.PackageManager;
 import android.content.res.Configuration;
 import android.graphics.drawable.Drawable;
 import android.net.ConnectivityManager;
@@ -28,8 +26,6 @@ import android.net.NetworkInfo;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.support.v4.app.ActivityCompat;
-import android.support.v4.content.ContextCompat;
 import android.support.v4.content.FileProvider;
 import android.support.v7.widget.PopupMenu;
 import android.support.v7.widget.PopupMenu.OnMenuItemClickListener;
@@ -42,7 +38,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Toast;
 import ayto.zafrApp.R;
-import feriazafra.Categorias_FeriaZafra;
+import feriazafra.activities.Categorias_FeriaZafra_Activity;
 
 
 public class MenuPrincipal extends Activity{
@@ -97,34 +93,34 @@ protected void onCreate(Bundle savedInstanceState) {
 
 	 public void verZafra(View v)
 	 {
-		 Intent act = new Intent(this, Zafra_Categorias.class);
+		 Intent act = new Intent(this, Zafra_Categorias_Activity.class);
 		 startActivity(act);
 		 
 	 }
 	 
 	 public void verCategoriasRestaurantes(View v)
 	 {
-		 Intent act =new Intent(this,Restaurantes_Categorias.class);
+		 Intent act =new Intent(this, Restaurantes_Categorias_Activity.class);
 		 startActivity(act);
 	 }
 	 
 	 public void verCategoriasAlojamientos(View v)
 	 {
-		 Intent act =new Intent(this,Alojamientos_Categorias.class);
+		 Intent act =new Intent(this,Alojamientos_Categorias_Activity.class);
 		 startActivity(act);
 	 }
 	 
 	 public void verMas(View v)
 	 {
 
-		 Intent act =new Intent(this,Menu_Mas.class);
+		 Intent act =new Intent(this, Menu_Mas_Activity.class);
 		 startActivity(act);
 	 }
 	 
 	 public void verRssNoticias(View v)
 	 {
 		 if (existeConexionInternet()){
-				Intent act = new Intent(this, RssNoticias.class);
+				Intent act = new Intent(this, RssNoticias_Activity.class);
 				startActivity(act);
 				}else{
 				   Toast.makeText(this, getResources().getString(R.string.conexion), Toast.LENGTH_LONG).show();
@@ -147,13 +143,13 @@ protected void onCreate(Bundle savedInstanceState) {
 	 public void CategoriasFeria(View v)
 	 {
 		 //listado categorias feria de zafra!!!!!
-		 Intent act =new Intent(this,Categorias_FeriaZafra.class);
+		 Intent act =new Intent(this, Categorias_FeriaZafra_Activity.class);
 		 startActivity(act);
 	 }
 	 
 	 public void CategoriasLunaFuego(View v)
 	 {
-		 Intent act =new Intent(this,Categorias_LunaFuego.class);
+		 Intent act =new Intent(this, Categorias_LunaFuego_Activity.class);
 		 startActivity(act);
 	 }
 	 
@@ -162,7 +158,7 @@ protected void onCreate(Bundle savedInstanceState) {
 		    if (requestCode == 0) {
 		        if (resultCode == RESULT_OK) {
 		            String contenido = intent.getStringExtra("SCAN_RESULT");
-		            Intent i = new Intent(this, LectorQR.class);
+		            Intent i = new Intent(this, LectorQR_Activity.class);
 		  		   i.putExtra("contenido", contenido);
 		  			startActivity(i);
 		  		// Hacer algo con los datos obtenidos.
@@ -181,7 +177,7 @@ protected void onCreate(Bundle savedInstanceState) {
 			config.locale = locale;
 			getBaseContext().getResources().updateConfiguration(config, null);
 			super.onRestart();
-		    Intent i = new Intent(MenuPrincipal.this, PantallaSplash.class);  //your class
+		    Intent i = new Intent(MenuPrincipal.this, PantallaSplash_Activity.class);  //your class
 		    startActivity(i);
 		    finish();    
 	 }
@@ -195,7 +191,7 @@ protected void onCreate(Bundle savedInstanceState) {
 			config.locale = locale;
 			getBaseContext().getResources().updateConfiguration(config, null);
 			super.onRestart();
-			    Intent i = new Intent(MenuPrincipal.this, PantallaSplash.class);  //your class
+			    Intent i = new Intent(MenuPrincipal.this, PantallaSplash_Activity.class);  //your class
 			    startActivity(i);
 			    finish(); 
 	 }

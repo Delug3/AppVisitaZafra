@@ -162,7 +162,7 @@ MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Us
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:22:9-53
 	tools:replace
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:24:3-45
-activity#clases_principales.PantallaSplash
+activity#clases_principales.PantallaSplash_Activity
 ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:26:8-39:24
 	android:screenOrientation
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:31:13-49
@@ -173,7 +173,7 @@ ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManif
 	android:logo
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:29:13-47
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:27:13-61
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:27:13-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:34:8-37:29
 action#android.intent.action.MAIN
@@ -192,316 +192,316 @@ ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManif
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:40:108-146
 	android:name
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:40:23-70
-activity#rss.RssNoticias
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:41:10-100
+activity#rss.activities.RssNoticias_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:41:10-120
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:41:51-87
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:41:71-107
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:41:20-50
-activity#rss_feria.RssNoticiasFeria
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:42:10-111
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:41:20-70
+activity#rss_feria.activities.RssNoticiasFeria_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:42:10-131
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:42:62-98
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:42:82-118
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:42:20-61
-activity#clases_principales.Agenda
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:45:10-110
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:42:20-81
+activity#clases_principales.Agenda_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:45:10-119
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:45:61-97
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:45:70-106
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:45:20-60
-activity#clases_principales.LectorQR
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:46:8-157
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:45:20-69
+activity#clases_principales.LectorQR_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:46:8-166
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:46:109-145
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:46:118-154
 	android:theme
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:46:61-108
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:46:70-117
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:46:18-60
-activity#clases_principales.Menu_Mas
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:47:13-162
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:46:18-69
+activity#clases_principales.Menu_Mas_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:47:13-171
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:47:114-150
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:47:123-159
 	android:theme
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:47:66-113
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:47:75-122
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:47:23-65
-activity#clases_principales.AcercaDe
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:48:8-157
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:47:23-74
+activity#clases_principales.AcercaDe_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:48:8-166
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:48:109-145
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:48:118-154
 	android:theme
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:48:61-108
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:48:70-117
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:48:18-60
-activity#clases_principales.Zafra_Categorias
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:49:8-165
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:48:18-69
+activity#clases_principales.Zafra_Categorias_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:49:8-174
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:49:117-153
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:49:126-162
 	android:theme
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:49:69-116
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:49:78-125
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:49:18-68
-activity#radio.Radio
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:50:8-141
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:49:18-77
+activity#radio.activities.Radio_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:50:8-161
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:50:93-129
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:50:113-149
 	android:theme
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:50:45-92
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:50:65-112
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:50:18-44
-activity#lunaalfuego.Categorias_LunaFuego
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:51:8-162
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:50:18-64
+activity#lunaalfuego.activities.Categorias_LunaFuego_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:51:8-182
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:51:114-150
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:51:134-170
 	android:theme
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:51:66-113
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:51:86-133
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:51:18-65
-activity#lunaalfuego.Info_Detalle_Programacion
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:52:8-119
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:51:18-85
+activity#lunaalfuego.activities.Info_Detalle_Programacion_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:52:8-139
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:52:71-107
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:52:91-127
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:52:18-70
-activity#lunaalfuego.Fragment_Mapa
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:53:8-107
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:52:18-90
+activity#lunaalfuego.fragments.Mapa_Fragment
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:53:8-117
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:53:59-95
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:53:69-105
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:53:18-58
-activity#lunaalfuego.Fragment_Fotos_LunaFuego
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:54:8-118
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:53:18-68
+activity#lunaalfuego.fragments.Fotos_LunaFuego_Fragment
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:54:8-128
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:54:70-106
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:54:80-116
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:54:18-69
-activity#lunaalfuego.Swipe_LunaFuego
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:55:8-109
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:54:18-79
+activity#lunaalfuego.activities.Swipe_LunaFuego_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:55:8-129
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:55:61-97
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:55:81-117
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:55:18-60
-activity#lunaalfuego.Swipe_Mapa
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:56:8-104
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:55:18-80
+activity#lunaalfuego.activities.Swipe_Mapa_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:56:8-124
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:56:56-92
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:56:76-112
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:56:18-55
-activity#lunaalfuego.Actividades_Lista
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:57:8-159
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:56:18-75
+activity#lunaalfuego.activities.Actividades_Lista_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:57:8-179
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:57:111-147
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:57:131-167
 	android:theme
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:57:63-110
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:57:83-130
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:57:18-62
-activity#lunaalfuego.Info_Detalle_Actividades
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:58:8-118
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:57:18-82
+activity#lunaalfuego.activities.Info_Detalle_Actividades_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:58:8-138
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:58:70-106
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:58:90-126
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:58:18-69
-activity#lunaalfuego.Programacion_Lista
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:59:8-160
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:58:18-89
+activity#lunaalfuego.activities.Programacion_Lista_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:59:8-180
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:59:112-148
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:59:132-168
 	android:theme
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:59:64-111
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:59:84-131
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:59:18-63
-activity#feriazafra.Categorias_FeriaZafra
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:61:8-162
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:59:18-83
+activity#feriazafra.activities.Categorias_FeriaZafra_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:61:8-182
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:61:114-150
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:61:134-170
 	android:theme
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:61:66-113
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:61:86-133
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:61:18-65
-activity#feriazafra.Plano_Feria
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:62:8-68
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:61:18-85
+activity#feriazafra.activities.Plano_Feria_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:62:8-88
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:62:18-55
-activity#feriazafra.Informacion_Interes
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:63:8-112
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:62:18-75
+activity#feriazafra.activities.Informacion_Interes_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:63:8-132
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:63:64-100
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:63:84-120
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:63:18-63
-activity#feriazafra.Swipe_GaleriaZafra
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:64:8-111
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:63:18-83
+activity#feriazafra.activities.Swipe_GaleriaZafra_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:64:8-131
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:64:63-99
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:64:83-119
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:64:18-62
-activity#feriazafra.Fragment_Fotos_FeriaZafra
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:65:8-118
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:64:18-82
+activity#feriazafra.fragments.Fotos_FeriaZafra_Fragment
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:65:8-128
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:65:70-106
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:65:80-116
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:65:18-69
-activity#feriazafra.Programacion_Lista
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:66:8-159
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:65:18-79
+activity#feriazafra.activities.Programacion_Lista_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:66:8-179
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:66:111-147
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:66:131-167
 	android:theme
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:66:63-110
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:66:83-130
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:66:18-62
-activity#feriazafra.Info_Detalle_Programacion
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:67:8-118
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:66:18-82
+activity#feriazafra.activities.Info_Detalle_Programacion_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:67:8-138
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:67:70-106
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:67:90-126
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:67:18-69
-activity#feriazafra.Expositores_Lista
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:68:8-110
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:67:18-89
+activity#feriazafra.activities.Expositores_Lista_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:68:8-130
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:68:62-98
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:68:82-118
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:68:18-61
-activity#feriazafra.MostrarItem_Expositores
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:69:10-118
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:68:18-81
+activity#feriazafra.activities.MostrarItem_Expositores_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:69:10-138
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:69:70-106
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:69:90-126
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:69:20-69
-activity#monumentos.Monumentos_Lista
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:71:8-157
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:69:20-89
+activity#monumentos.activities.Monumentos_Lista_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:71:8-177
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:71:61-97
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:71:81-117
 	android:theme
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:71:98-145
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:71:118-165
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:71:18-60
-activity#monumentos.Monumentos_TabSwipe
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:72:13-117
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:71:18-80
+activity#monumentos.activities.Monumentos_TabSwipe_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:72:13-137
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:72:69-105
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:72:89-125
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:72:23-68
-activity#monumentos.FragmentInicioMonumentos
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:73:10-119
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:72:23-88
+activity#monumentos.fragments.InicioMonumentos_Fragment
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:73:10-130
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:73:71-107
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:73:82-118
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:73:20-70
-activity#monumentos.FragmentInfoMonumentos
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:74:10-117
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:73:20-81
+activity#monumentos.fragments.InfoMonumentos_Fragment
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:74:10-128
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:74:69-105
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:74:80-116
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:74:20-68
-activity#monumentos.FragmentFotosMonumentos
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:75:10-118
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:74:20-79
+activity#monumentos.fragments.FotosMonumentos_Fragment
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:75:10-129
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:75:70-106
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:75:81-117
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:75:20-69
-activity#restaurantes.Restaurantes_Lista
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:76:10-163
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:75:20-80
+activity#restaurantes.activities.Restaurantes_Lista_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:76:10-183
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:76:67-103
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:76:87-123
 	android:theme
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:76:104-151
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:76:124-171
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:76:20-66
-activity#restaurantes.Restaurantes_Categorias
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:77:9-167
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:76:20-86
+activity#restaurantes.activities.Restaurantes_Categorias_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:77:9-187
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:77:71-107
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:77:91-127
 	android:theme
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:77:108-155
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:77:128-175
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:77:19-70
-activity#restaurantes.Restaurantes_TabSwipe
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:78:9-117
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:77:19-90
+activity#restaurantes.activities.Restaurantes_TabSwipe_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:78:9-137
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:78:69-105
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:78:89-125
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:78:19-68
-activity#restaurantes.FragmentInicioRestaurantes
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:79:10-123
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:78:19-88
+activity#restaurantes.fragments.InicioRestaurantes_Fragment
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:79:10-134
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:79:75-111
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:79:86-122
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:79:20-74
-activity#restaurantes.FragmentInfoRestaurantes
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:80:10-121
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:79:20-85
+activity#restaurantes.fragments.InfoRestaurantes_Fragment
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:80:10-132
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:80:73-109
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:80:84-120
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:80:20-72
-activity#restaurantes.FragmentFotosRestaurantes
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:81:10-122
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:80:20-83
+activity#restaurantes.fragments.FotosRestaurantes_Fragment
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:81:10-133
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:81:74-110
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:81:85-121
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:81:20-73
-activity#alojamientos.Alojamientos_Lista
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:82:10-163
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:81:20-84
+activity#alojamientos.activities.Alojamientos_Lista_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:82:10-183
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:82:67-103
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:82:87-123
 	android:theme
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:82:104-151
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:82:124-171
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:82:20-66
-activity#alojamientos.Alojamientos_Categorias
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:83:9-167
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:82:20-86
+activity#alojamientos.activities.Alojamientos_Categorias_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:83:9-187
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:83:71-107
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:83:91-127
 	android:theme
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:83:108-155
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:83:128-175
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:83:19-70
-activity#alojamientos.Alojamientos_TabSwipe
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:84:9-117
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:83:19-90
+activity#alojamientos.activities.Alojamientos_TabSwipe_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:84:9-137
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:84:69-105
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:84:89-125
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:84:19-68
-activity#alojamientos.FragmentInicioAlojamientos
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:85:10-123
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:84:19-88
+activity#alojamientos.fragments.InicioAlojamientos_Fragment
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:85:10-134
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:85:75-111
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:85:86-122
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:85:20-74
-activity#alojamientos.FragmentInfoAlojamientos
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:86:10-121
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:85:20-85
+activity#alojamientos.fragments.InfoAlojamientos_Fragment
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:86:10-132
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:86:73-109
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:86:84-120
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:86:20-72
-activity#alojamientos.FragmentFotosAlojamientos
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:87:10-122
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:86:20-83
+activity#alojamientos.fragments.FotosAlojamientos_Fragment
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:87:10-133
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:87:74-110
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:87:85-121
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:87:20-73
-activity#leyendas.Leyendas_Lista
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:88:10-107
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:87:20-84
+activity#leyendas.Activities.Leyendas_Lista_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:88:10-127
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:88:59-95
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:88:79-115
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:88:20-58
-activity#leyendas.MostrarItem_Leyendas
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:89:10-113
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:88:20-78
+activity#leyendas.Activities.MostrarItem_Leyendas_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:89:10-133
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:89:65-101
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:89:85-121
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:89:20-64
-activity#personajes.Personajes_Lista
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:90:10-111
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:89:20-84
+activity#personajes.activity.Personajes_Lista_Activity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:90:10-129
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:90:63-99
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:90:81-117
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:90:20-62
-activity#personajes.MostrarItem_Personajes
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:90:20-80
+activity#personajes.activity.MostrarItem_Personajes_Activity
 ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:91:10-92:53
 	android:screenOrientation
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:92:5-41
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:91:20-68
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:91:20-86
 activity#com.google.zxing.client.android.CaptureActivity
 ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:94:7-110:12
 MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:63:9-124:20
@@ -532,14 +532,14 @@ action#app.proyecto.visitazafra.SCAN
 ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:107:9-64
 	android:name
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:107:17-61
-service#radio.MyMediaPlayerService
+service#radio.services.MyMediaPlayerService
 ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:111:3-114:72
 	android:enabled
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:112:13-35
 	android:permission
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:114:13-69
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:113:13-54
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:113:13-63
 receiver#ayto.zafrApp.MyIntentReceiver
 ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:115:3-119:14
 	android:name

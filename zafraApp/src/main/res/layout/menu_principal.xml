@@ -108,6 +108,7 @@
             android:src="@drawable/estado_boton_feria"
             android:onClick="CategoriasFeria"
             android:contentDescription="@null"
+			android:visibility="gone"
             />
         <ImageButton
             android:id="@+id/btnlunafuego"

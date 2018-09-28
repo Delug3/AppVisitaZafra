@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="ayto.zafrApp"
     android:installLocation="preferExternal"
-    android:versionCode="16"
-    android:versionName="2.1.7" >
+    android:versionCode="18"
+    android:versionName="2.1.8" >
 
     <uses-sdk
         android:minSdkVersion="14"
@@ -56,10 +56,9 @@
         android:debuggable="true"
         android:icon="@drawable/app_icono"
         android:label="@string/nombre_app"
-        android:testOnly="true"
         android:theme="@style/Theme.Customactionbar" >
         <activity
-            android:name="clases_principales.PantallaSplash"
+            android:name="clases_principales.PantallaSplash_Activity"
             android:label="@string/nombre_app"
             android:logo="@drawable/app_icono"
             android:screenOrientation="portrait"
@@ -75,158 +74,158 @@
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat" />
         <activity
-            android:name="rss.RssNoticias"
+            android:name="rss.activities.RssNoticias_Activity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="rss_feria.RssNoticiasFeria"
+            android:name="rss_feria.activities.RssNoticiasFeria_Activity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="clases_principales.Agenda"
+            android:name="clases_principales.Agenda_Activity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="clases_principales.LectorQR"
+            android:name="clases_principales.LectorQR_Activity"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar" />
         <activity
-            android:name="clases_principales.Menu_Mas"
+            android:name="clases_principales.Menu_Mas_Activity"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar" />
         <activity
-            android:name="clases_principales.AcercaDe"
+            android:name="clases_principales.AcercaDe_Activity"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar" />
         <activity
-            android:name="clases_principales.Zafra_Categorias"
+            android:name="clases_principales.Zafra_Categorias_Activity"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar" />
         <activity
-            android:name="radio.Radio"
+            android:name="radio.activities.Radio_Activity"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar" />
         <activity
-            android:name="lunaalfuego.Categorias_LunaFuego"
+            android:name="lunaalfuego.activities.Categorias_LunaFuego_Activity"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar" />
         <activity
-            android:name="lunaalfuego.Info_Detalle_Programacion"
+            android:name="lunaalfuego.activities.Info_Detalle_Programacion_Activity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="lunaalfuego.Fragment_Mapa"
+            android:name="lunaalfuego.fragments.Mapa_Fragment"
             android:screenOrientation="portrait" />
         <activity
-            android:name="lunaalfuego.Fragment_Fotos_LunaFuego"
+            android:name="lunaalfuego.fragments.Fotos_LunaFuego_Fragment"
             android:screenOrientation="portrait" />
         <activity
-            android:name="lunaalfuego.Swipe_LunaFuego"
+            android:name="lunaalfuego.activities.Swipe_LunaFuego_Activity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="lunaalfuego.Swipe_Mapa"
+            android:name="lunaalfuego.activities.Swipe_Mapa_Activity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="lunaalfuego.Actividades_Lista"
+            android:name="lunaalfuego.activities.Actividades_Lista_Activity"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar" />
         <activity
-            android:name="lunaalfuego.Info_Detalle_Actividades"
+            android:name="lunaalfuego.activities.Info_Detalle_Actividades_Activity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="lunaalfuego.Programacion_Lista"
+            android:name="lunaalfuego.activities.Programacion_Lista_Activity"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar" />
         <activity
-            android:name="feriazafra.Categorias_FeriaZafra"
+            android:name="feriazafra.activities.Categorias_FeriaZafra_Activity"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar" />
-        <activity android:name="feriazafra.Plano_Feria" />
+        <activity android:name="feriazafra.activities.Plano_Feria_Activity" />
         <activity
-            android:name="feriazafra.Informacion_Interes"
+            android:name="feriazafra.activities.Informacion_Interes_Activity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="feriazafra.Swipe_GaleriaZafra"
+            android:name="feriazafra.activities.Swipe_GaleriaZafra_Activity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="feriazafra.Fragment_Fotos_FeriaZafra"
+            android:name="feriazafra.fragments.Fotos_FeriaZafra_Fragment"
             android:screenOrientation="portrait" />
         <activity
-            android:name="feriazafra.Programacion_Lista"
-            android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.NoTitleBar" />
-        <activity
-            android:name="feriazafra.Info_Detalle_Programacion"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="feriazafra.Expositores_Lista"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="feriazafra.MostrarItem_Expositores"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="monumentos.Monumentos_Lista"
+            android:name="feriazafra.activities.Programacion_Lista_Activity"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar" />
         <activity
-            android:name="monumentos.Monumentos_TabSwipe"
+            android:name="feriazafra.activities.Info_Detalle_Programacion_Activity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="monumentos.FragmentInicioMonumentos"
+            android:name="feriazafra.activities.Expositores_Lista_Activity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="monumentos.FragmentInfoMonumentos"
+            android:name="feriazafra.activities.MostrarItem_Expositores_Activity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="monumentos.FragmentFotosMonumentos"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="restaurantes.Restaurantes_Lista"
+            android:name="monumentos.activities.Monumentos_Lista_Activity"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar" />
         <activity
-            android:name="restaurantes.Restaurantes_Categorias"
+            android:name="monumentos.activities.Monumentos_TabSwipe_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="monumentos.fragments.InicioMonumentos_Fragment"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="monumentos.fragments.InfoMonumentos_Fragment"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="monumentos.fragments.FotosMonumentos_Fragment"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="restaurantes.activities.Restaurantes_Lista_Activity"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar" />
         <activity
-            android:name="restaurantes.Restaurantes_TabSwipe"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="restaurantes.FragmentInicioRestaurantes"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="restaurantes.FragmentInfoRestaurantes"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="restaurantes.FragmentFotosRestaurantes"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="alojamientos.Alojamientos_Lista"
+            android:name="restaurantes.activities.Restaurantes_Categorias_Activity"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar" />
         <activity
-            android:name="alojamientos.Alojamientos_Categorias"
+            android:name="restaurantes.activities.Restaurantes_TabSwipe_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="restaurantes.fragments.InicioRestaurantes_Fragment"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="restaurantes.fragments.InfoRestaurantes_Fragment"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="restaurantes.fragments.FotosRestaurantes_Fragment"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="alojamientos.activities.Alojamientos_Lista_Activity"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar" />
         <activity
-            android:name="alojamientos.Alojamientos_TabSwipe"
+            android:name="alojamientos.activities.Alojamientos_Categorias_Activity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="alojamientos.activities.Alojamientos_TabSwipe_Activity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="alojamientos.FragmentInicioAlojamientos"
+            android:name="alojamientos.fragments.InicioAlojamientos_Fragment"
             android:screenOrientation="portrait" />
         <activity
-            android:name="alojamientos.FragmentInfoAlojamientos"
+            android:name="alojamientos.fragments.InfoAlojamientos_Fragment"
             android:screenOrientation="portrait" />
         <activity
-            android:name="alojamientos.FragmentFotosAlojamientos"
+            android:name="alojamientos.fragments.FotosAlojamientos_Fragment"
             android:screenOrientation="portrait" />
         <activity
-            android:name="leyendas.Leyendas_Lista"
+            android:name="leyendas.Activities.Leyendas_Lista_Activity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="leyendas.MostrarItem_Leyendas"
+            android:name="leyendas.Activities.MostrarItem_Leyendas_Activity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="personajes.Personajes_Lista"
+            android:name="personajes.activity.Personajes_Lista_Activity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="personajes.MostrarItem_Personajes"
+            android:name="personajes.activity.MostrarItem_Personajes_Activity"
             android:screenOrientation="portrait" />
         <activity
             android:name="com.google.zxing.client.android.CaptureActivity"
@@ -294,7 +293,7 @@
         </activity>
 
         <service
-            android:name="radio.MyMediaPlayerService"
+            android:name="radio.services.MyMediaPlayerService"
             android:enabled="true"
             android:permission="ayto.appzafra.MY_SERVICE_PERMISSION" />
 
