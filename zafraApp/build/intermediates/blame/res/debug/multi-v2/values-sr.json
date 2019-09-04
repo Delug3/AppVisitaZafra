@@ -4,24 +4,7 @@
             "outputFile": "C:\\Users\\Napst\\StudioProjects\\ZafraApp\\zafraApp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sr\\values-sr.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\200bba2a4e12d4b6e259ecb707019d61\\res\\values-sr\\values-sr.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,317,423,509,613,731,812,892,980,1085,1193,1294,1398,1506,1607,1774,1871",
-                        "endColumns": "108,102,105,85,103,117,80,79,87,104,107,100,103,107,100,166,96,83",
-                        "endOffsets": "209,312,418,504,608,726,807,887,975,1080,1188,1289,1393,1501,1602,1769,1866,1950"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,317,423,509,613,731,812,892,980,1085,1193,1294,1398,1506,1607,1774,4530",
-                        "endColumns": "108,102,105,85,103,117,80,79,87,104,107,100,103,107,100,166,96,83",
-                        "endOffsets": "209,312,418,504,608,726,807,887,975,1080,1188,1289,1393,1501,1602,1769,1866,4609"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\2a4284361be671f429e943e765925b6c\\res\\values-sr\\values-sr.xml",
+                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\672b683298cf43f71bf6cec664e95ec7\\res\\values-sr\\values-sr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\34880104b515bfc8595c149fb3da0a4e\\res\\values-sr\\values.xml",
+                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\7ad79524499de55015f261c33c443f04\\res\\values-sr\\values-sr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,317,423,509,613,731,812,892,980,1085,1193,1294,1398,1506,1607,1774,1871",
+                        "endColumns": "108,102,105,85,103,117,80,79,87,104,107,100,103,107,100,166,96,83",
+                        "endOffsets": "209,312,418,504,608,726,807,887,975,1080,1188,1289,1393,1501,1602,1769,1866,1950"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,317,423,509,613,731,812,892,980,1085,1193,1294,1398,1506,1607,1774,4530",
+                        "endColumns": "108,102,105,85,103,117,80,79,87,104,107,100,103,107,100,166,96,83",
+                        "endOffsets": "209,312,418,504,608,726,807,887,975,1080,1188,1289,1393,1501,1602,1769,1866,4609"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\f446e34b45224c29da26617bae915600\\res\\values-sr\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\27f1be060ce535a8e4324f5a075ab04a\\res\\values-sr\\values.xml",
+                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\ec940a89d820fbc8449016e3a734cc10\\res\\values-sr\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

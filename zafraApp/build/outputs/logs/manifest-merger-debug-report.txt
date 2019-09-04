@@ -15,36 +15,36 @@ ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManif
 INJECTED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:2:1-134:12
 INJECTED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:2:1-134:12
 INJECTED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:2:1-134:12
-MERGED from [:library] C:\Users\Napst\StudioProjects\ZafraApp\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
-MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:1-222:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\200bba2a4e12d4b6e259ecb707019d61\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\d1843c91e9060183a243c3f943e629bf\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3b49b78dac24db0451eb912292f3f9c0\AndroidManifest.xml:17:1-34:12
-MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:17:1-55:12
-MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\41545507734164c40b844b8097459ed0\AndroidManifest.xml:17:1-40:12
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:17:1-65:12
-MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\c82c322b33249ca53fe150c75da60fed\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\b59843a2d3d4e6f171a0038152f04c64\AndroidManifest.xml:2:1-16:12
-MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\d10565268695520cc398078a352969ca\AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\43e0515e8fae1a82ded84207f1f5a159\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\a9926cf74eef0476993643962f8efe8b\AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\34880104b515bfc8595c149fb3da0a4e\AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\d9a42017630389aab351c5d8be3dc275\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\27f1be060ce535a8e4324f5a075ab04a\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\67d68f0710bfb74f8f74fefe666362c2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ed6f508a40b66d136e528f9fcffe5a29\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7efe824b48925927e3d2c92ecf89bb56\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\673c4b479cff4752d227f793ac2acfd2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c9e4fa475de9dbd2edf4303da35c5e2b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\14f962f0fe9654ca03bcde508151f08e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b963e33482d06726d05e086b6e08dd0f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\978d08580ce83315b3c1d39466b5fb93\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2a4284361be671f429e943e765925b6c\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dd336ca188b9b744f95a1bb6ae4bc2d0\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3903ec87a2b560f264fc698756731463\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9b6cd09386ff468b2a45db7ae4e8585d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\619dfd0f362b3cd73d30aee384c86d8f\AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bcca643d76835c96b134a6c3119e6a5d\AndroidManifest.xml:17:1-22:12
+MERGED from [:library] C:\Users\Napst\StudioProjects\ZafraApp\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:1-222:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7ad79524499de55015f261c33c443f04\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\ecc3b0fa5e8905edb264808de810adfd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3f7d517be01b419d65fe5d5cb2a40b86\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\857f9520d4e61c415beff1403a0fb267\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\e60fc4aa3d0b34ca4a453238ecb7d0b5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c3d248106a7d3cfd458fb087b554e2a8\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\7bf6d26b0920b25ca3f7eb245aafea88\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\6b13d8abc13f0fe15bbef2963044291a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\28b040f8d6fbc18ae1b847a55144410f\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f446e34b45224c29da26617bae915600\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\7c8bd0361ff0e3fb465b2fd2a0255b54\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ec940a89d820fbc8449016e3a734cc10\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\545ebb81086fcfaf276e3a062bc1a3f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d8f563a1cc777be8c92738f27e07defd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\93b2bab7898a2d7e4dae7a2c16283e1b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9e6f61c911d8345eabb39cbec0da46c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4a5eb60c01f5cf5aa1c9893f7e69358e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1b49548ef60dea766ee87830a9efe213\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\929be1e6456f49ac89bdb71666ff42b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a55841e6fa8c4a7bca3136ecd71095e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\672b683298cf43f71bf6cec664e95ec7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\17ffe050c8d65d0eec0c7c0e5811dbeb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\eed329e9cad1d582324550fe16691754\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e6a131b02716fab517b03cc597bc5434\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\25fcf858b95d2b146801caaf6dea909c\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\845dcc25da23ca122ab8c4ade5e0df91\AndroidManifest.xml:17:1-22:12
 INJECTED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:2:1-134:12
 INJECTED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:2:1-134:12
 INJECTED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:2:1-134:12
@@ -68,94 +68,94 @@ INJECTED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidMa
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:7:5-45
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:11:1-63
-MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:28:5-67
-MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:28:5-67
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3b49b78dac24db0451eb912292f3f9c0\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3b49b78dac24db0451eb912292f3f9c0\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\41545507734164c40b844b8097459ed0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\41545507734164c40b844b8097459ed0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:23:5-67
+MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:5-67
+MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3f7d517be01b419d65fe5d5cb2a40b86\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3f7d517be01b419d65fe5d5cb2a40b86\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\857f9520d4e61c415beff1403a0fb267\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\857f9520d4e61c415beff1403a0fb267\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:11:18-60
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:12:1-75
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3b49b78dac24db0451eb912292f3f9c0\AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3b49b78dac24db0451eb912292f3f9c0\AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\41545507734164c40b844b8097459ed0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\41545507734164c40b844b8097459ed0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3f7d517be01b419d65fe5d5cb2a40b86\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3f7d517be01b419d65fe5d5cb2a40b86\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\857f9520d4e61c415beff1403a0fb267\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\857f9520d4e61c415beff1403a0fb267\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:22:5-79
 	android:name
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:12:18-72
 uses-permission#android.permission.CAMERA
 ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:13:1-60
-MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:27:5-65
-MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:27:5-65
+MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-65
+MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-65
 	android:name
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:13:18-58
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:14:1-76
-MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:33:5-81
-MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:33:5-81
+MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:5-81
+MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:5-81
 	android:name
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:14:18-74
 uses-permission#android.permission.WAKE_LOCK
 ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:15:1-64
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3b49b78dac24db0451eb912292f3f9c0\AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3b49b78dac24db0451eb912292f3f9c0\AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\41545507734164c40b844b8097459ed0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\41545507734164c40b844b8097459ed0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3f7d517be01b419d65fe5d5cb2a40b86\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3f7d517be01b419d65fe5d5cb2a40b86\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\857f9520d4e61c415beff1403a0fb267\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\857f9520d4e61c415beff1403a0fb267\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:24:5-68
 	android:name
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:15:18-61
 application
 ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:19:2-131:23
-MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:60:5-220:19
-MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:60:5-220:19
-MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\d1843c91e9060183a243c3f943e629bf\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\d1843c91e9060183a243c3f943e629bf\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3b49b78dac24db0451eb912292f3f9c0\AndroidManifest.xml:26:5-32:19
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3b49b78dac24db0451eb912292f3f9c0\AndroidManifest.xml:26:5-32:19
-MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\41545507734164c40b844b8097459ed0\AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\41545507734164c40b844b8097459ed0\AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:34:5-63:19
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:34:5-63:19
-MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\c82c322b33249ca53fe150c75da60fed\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\c82c322b33249ca53fe150c75da60fed\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\b59843a2d3d4e6f171a0038152f04c64\AndroidManifest.xml:8:5-14:19
-MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\b59843a2d3d4e6f171a0038152f04c64\AndroidManifest.xml:8:5-14:19
-MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\d10565268695520cc398078a352969ca\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\d10565268695520cc398078a352969ca\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\43e0515e8fae1a82ded84207f1f5a159\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\43e0515e8fae1a82ded84207f1f5a159\AndroidManifest.xml:22:5-20
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\a9926cf74eef0476993643962f8efe8b\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\a9926cf74eef0476993643962f8efe8b\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\34880104b515bfc8595c149fb3da0a4e\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\34880104b515bfc8595c149fb3da0a4e\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\d9a42017630389aab351c5d8be3dc275\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\d9a42017630389aab351c5d8be3dc275\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\27f1be060ce535a8e4324f5a075ab04a\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\27f1be060ce535a8e4324f5a075ab04a\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7efe824b48925927e3d2c92ecf89bb56\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7efe824b48925927e3d2c92ecf89bb56\AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\619dfd0f362b3cd73d30aee384c86d8f\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\619dfd0f362b3cd73d30aee384c86d8f\AndroidManifest.xml:22:5-20
+MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:5-220:19
+MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:5-220:19
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\ecc3b0fa5e8905edb264808de810adfd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\ecc3b0fa5e8905edb264808de810adfd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3f7d517be01b419d65fe5d5cb2a40b86\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3f7d517be01b419d65fe5d5cb2a40b86\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\857f9520d4e61c415beff1403a0fb267\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\857f9520d4e61c415beff1403a0fb267\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\e60fc4aa3d0b34ca4a453238ecb7d0b5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\e60fc4aa3d0b34ca4a453238ecb7d0b5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c3d248106a7d3cfd458fb087b554e2a8\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c3d248106a7d3cfd458fb087b554e2a8\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\7bf6d26b0920b25ca3f7eb245aafea88\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\7bf6d26b0920b25ca3f7eb245aafea88\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\6b13d8abc13f0fe15bbef2963044291a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\6b13d8abc13f0fe15bbef2963044291a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\28b040f8d6fbc18ae1b847a55144410f\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\28b040f8d6fbc18ae1b847a55144410f\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f446e34b45224c29da26617bae915600\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f446e34b45224c29da26617bae915600\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\7c8bd0361ff0e3fb465b2fd2a0255b54\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\7c8bd0361ff0e3fb465b2fd2a0255b54\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ec940a89d820fbc8449016e3a734cc10\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ec940a89d820fbc8449016e3a734cc10\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\93b2bab7898a2d7e4dae7a2c16283e1b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\93b2bab7898a2d7e4dae7a2c16283e1b\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\25fcf858b95d2b146801caaf6dea909c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\25fcf858b95d2b146801caaf6dea909c\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:21:9-43
-		REJECTED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:62:9-41
+		REJECTED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:9-41
 	android:icon
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:20:9-43
-		REJECTED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:61:9-47
+		REJECTED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:9-47
 	android:allowBackup
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:23:9-36
 	android:theme
@@ -438,46 +438,46 @@ ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManif
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:81:85-121
 	android:name
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:81:20-84
-activity#alojamientos.activities.Alojamientos_Lista_Activity
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:82:10-183
+activity#alojamientos.activities.AlojamientosListaActivity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:82:10-181
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:82:87-123
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:82:85-121
 	android:theme
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:82:124-171
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:82:122-169
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:82:20-86
-activity#alojamientos.activities.Alojamientos_Categorias_Activity
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:83:9-187
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:82:20-84
+activity#alojamientos.activities.AlojamientosCategoriasActivity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:83:9-185
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:83:91-127
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:83:89-125
 	android:theme
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:83:128-175
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:83:126-173
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:83:19-90
-activity#alojamientos.activities.Alojamientos_TabSwipe_Activity
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:84:9-137
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:83:19-88
+activity#alojamientos.activities.AlojamientosTabSwipeActivity
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:84:9-135
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:84:89-125
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:84:87-123
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:84:19-88
-activity#alojamientos.fragments.InicioAlojamientos_Fragment
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:85:10-134
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:84:19-86
+activity#alojamientos.fragments.AlojamientosInicioFragment
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:85:10-133
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:85:86-122
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:85:85-121
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:85:20-85
-activity#alojamientos.fragments.InfoAlojamientos_Fragment
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:86:10-132
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:85:20-84
+activity#alojamientos.fragments.AlojamientosInfoFragment
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:86:10-131
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:86:84-120
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:86:83-119
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:86:20-83
-activity#alojamientos.fragments.FotosAlojamientos_Fragment
-ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:87:10-133
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:86:20-82
+activity#alojamientos.fragments.AlojamientosFotosFragment
+ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:87:10-132
 	android:screenOrientation
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:87:85-121
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:87:84-120
 	android:name
-		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:87:20-84
+		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:87:20-83
 activity#leyendas.Activities.Leyendas_Lista_Activity
 ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:88:10-127
 	android:screenOrientation
@@ -504,8 +504,8 @@ ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManif
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:91:20-86
 activity#com.google.zxing.client.android.CaptureActivity
 ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:94:7-110:12
-MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:63:9-124:20
-MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:63:9-124:20
+MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:9-124:20
+MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:9-124:20
 	android:screenOrientation
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:98:7-43
 	android:clearTaskOnLaunch
@@ -554,66 +554,66 @@ uses-sdk
 INJECTED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml
-MERGED from [:library] C:\Users\Napst\StudioProjects\ZafraApp\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
-MERGED from [:library] C:\Users\Napst\StudioProjects\ZafraApp\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
-MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:23:5-25:41
-MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:23:5-25:41
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\200bba2a4e12d4b6e259ecb707019d61\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\200bba2a4e12d4b6e259ecb707019d61\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\d1843c91e9060183a243c3f943e629bf\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\d1843c91e9060183a243c3f943e629bf\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3b49b78dac24db0451eb912292f3f9c0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3b49b78dac24db0451eb912292f3f9c0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\41545507734164c40b844b8097459ed0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\41545507734164c40b844b8097459ed0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\c82c322b33249ca53fe150c75da60fed\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\c82c322b33249ca53fe150c75da60fed\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\b59843a2d3d4e6f171a0038152f04c64\AndroidManifest.xml:5:5-6:37
-MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\b59843a2d3d4e6f171a0038152f04c64\AndroidManifest.xml:5:5-6:37
-MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\d10565268695520cc398078a352969ca\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\d10565268695520cc398078a352969ca\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\43e0515e8fae1a82ded84207f1f5a159\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\43e0515e8fae1a82ded84207f1f5a159\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\a9926cf74eef0476993643962f8efe8b\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\a9926cf74eef0476993643962f8efe8b\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\34880104b515bfc8595c149fb3da0a4e\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\34880104b515bfc8595c149fb3da0a4e\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\d9a42017630389aab351c5d8be3dc275\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\d9a42017630389aab351c5d8be3dc275\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\27f1be060ce535a8e4324f5a075ab04a\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\27f1be060ce535a8e4324f5a075ab04a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\67d68f0710bfb74f8f74fefe666362c2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\67d68f0710bfb74f8f74fefe666362c2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ed6f508a40b66d136e528f9fcffe5a29\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ed6f508a40b66d136e528f9fcffe5a29\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7efe824b48925927e3d2c92ecf89bb56\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7efe824b48925927e3d2c92ecf89bb56\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\673c4b479cff4752d227f793ac2acfd2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\673c4b479cff4752d227f793ac2acfd2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c9e4fa475de9dbd2edf4303da35c5e2b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c9e4fa475de9dbd2edf4303da35c5e2b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\14f962f0fe9654ca03bcde508151f08e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\14f962f0fe9654ca03bcde508151f08e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b963e33482d06726d05e086b6e08dd0f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b963e33482d06726d05e086b6e08dd0f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\978d08580ce83315b3c1d39466b5fb93\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\978d08580ce83315b3c1d39466b5fb93\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2a4284361be671f429e943e765925b6c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2a4284361be671f429e943e765925b6c\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dd336ca188b9b744f95a1bb6ae4bc2d0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dd336ca188b9b744f95a1bb6ae4bc2d0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3903ec87a2b560f264fc698756731463\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3903ec87a2b560f264fc698756731463\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9b6cd09386ff468b2a45db7ae4e8585d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9b6cd09386ff468b2a45db7ae4e8585d\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\619dfd0f362b3cd73d30aee384c86d8f\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\619dfd0f362b3cd73d30aee384c86d8f\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bcca643d76835c96b134a6c3119e6a5d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bcca643d76835c96b134a6c3119e6a5d\AndroidManifest.xml:20:5-44
+MERGED from [:library] C:\Users\Napst\StudioProjects\ZafraApp\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:library] C:\Users\Napst\StudioProjects\ZafraApp\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:5-25:41
+MERGED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7ad79524499de55015f261c33c443f04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7ad79524499de55015f261c33c443f04\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\ecc3b0fa5e8905edb264808de810adfd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\ecc3b0fa5e8905edb264808de810adfd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3f7d517be01b419d65fe5d5cb2a40b86\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3f7d517be01b419d65fe5d5cb2a40b86\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\857f9520d4e61c415beff1403a0fb267\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\857f9520d4e61c415beff1403a0fb267\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\e60fc4aa3d0b34ca4a453238ecb7d0b5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\e60fc4aa3d0b34ca4a453238ecb7d0b5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c3d248106a7d3cfd458fb087b554e2a8\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c3d248106a7d3cfd458fb087b554e2a8\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\7bf6d26b0920b25ca3f7eb245aafea88\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\7bf6d26b0920b25ca3f7eb245aafea88\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\6b13d8abc13f0fe15bbef2963044291a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\6b13d8abc13f0fe15bbef2963044291a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\28b040f8d6fbc18ae1b847a55144410f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\28b040f8d6fbc18ae1b847a55144410f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f446e34b45224c29da26617bae915600\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f446e34b45224c29da26617bae915600\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\7c8bd0361ff0e3fb465b2fd2a0255b54\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\7c8bd0361ff0e3fb465b2fd2a0255b54\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ec940a89d820fbc8449016e3a734cc10\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ec940a89d820fbc8449016e3a734cc10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\545ebb81086fcfaf276e3a062bc1a3f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\545ebb81086fcfaf276e3a062bc1a3f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d8f563a1cc777be8c92738f27e07defd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d8f563a1cc777be8c92738f27e07defd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\93b2bab7898a2d7e4dae7a2c16283e1b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\93b2bab7898a2d7e4dae7a2c16283e1b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9e6f61c911d8345eabb39cbec0da46c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9e6f61c911d8345eabb39cbec0da46c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4a5eb60c01f5cf5aa1c9893f7e69358e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4a5eb60c01f5cf5aa1c9893f7e69358e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1b49548ef60dea766ee87830a9efe213\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1b49548ef60dea766ee87830a9efe213\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\929be1e6456f49ac89bdb71666ff42b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\929be1e6456f49ac89bdb71666ff42b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a55841e6fa8c4a7bca3136ecd71095e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a55841e6fa8c4a7bca3136ecd71095e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\672b683298cf43f71bf6cec664e95ec7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\672b683298cf43f71bf6cec664e95ec7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\17ffe050c8d65d0eec0c7c0e5811dbeb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\17ffe050c8d65d0eec0c7c0e5811dbeb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\eed329e9cad1d582324550fe16691754\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\eed329e9cad1d582324550fe16691754\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e6a131b02716fab517b03cc597bc5434\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e6a131b02716fab517b03cc597bc5434\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\25fcf858b95d2b146801caaf6dea909c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\25fcf858b95d2b146801caaf6dea909c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\845dcc25da23ca122ab8c4ade5e0df91\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\845dcc25da23ca122ab8c4ade5e0df91\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -631,354 +631,354 @@ ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManif
 	android:name
 		ADDED from C:\Users\Napst\StudioProjects\ZafraApp\zafraApp\src\main\AndroidManifest.xml:127:5-55
 uses-permission#android.permission.VIBRATE
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:29:5-66
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:5-66
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:29:22-63
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:22-63
 uses-permission#android.permission.FLASHLIGHT
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:30:5-69
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:5-69
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:30:22-66
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:22-66
 uses-permission#android.permission.READ_CONTACTS
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:31:5-72
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:5-72
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:31:22-69
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:22-69
 uses-permission#com.android.browser.permission.READ_HISTORY_BOOKMARKS
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:32:5-93
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:5-93
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:32:22-90
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:22-90
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:34:5-76
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:5-76
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:34:22-73
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:22-73
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:35:5-76
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:5-76
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:35:22-73
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:22-73
 uses-feature#android.hardware.camera
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:37:5-60
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:5-60
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:37:19-57
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:38:5-40:36
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:5-40:36
 	android:required
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:40:9-33
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:9-33
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:39:9-57
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:9-57
 uses-feature#android.hardware.camera.flash
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:41:5-43:36
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:5-43:36
 	android:required
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:43:9-33
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:9-33
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:42:9-53
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:9-53
 uses-feature#android.hardware.screen.landscape
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:44:5-70
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:5-70
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:44:19-67
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:19-67
 uses-feature#android.hardware.wifi
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:45:5-47:36
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:5-47:36
 	android:required
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:47:9-33
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:47:9-33
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:46:9-45
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:9-45
 uses-feature#android.hardware.touchscreen
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:48:5-50:36
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:48:5-50:36
 	android:required
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:50:9-33
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:9-33
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:49:9-52
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:9-52
 supports-screens
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:53:5-58:40
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:5-58:40
 	android:largeScreens
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:55:9-36
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:9-36
 	android:smallScreens
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:57:9-36
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:9-36
 	android:normalScreens
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:56:9-37
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:9-37
 	android:xlargeScreens
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:58:9-37
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:9-37
 	android:anyDensity
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:54:9-34
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:9-34
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:zxing.appspot.com+data:path:/scan+data:scheme:http
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:77:13-87:29
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:77:13-87:29
 action#android.intent.action.VIEW
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:78:17-69
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:78:17-69
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:78:25-66
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:78:25-66
 category#android.intent.category.BROWSABLE
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:81:17-78
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:81:17-78
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:81:27-75
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:81:27-75
 data
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:83:17-86:45
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:83:17-86:45
 	android:path
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:85:21-41
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:85:21-41
 	android:host
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:84:21-53
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:84:21-53
 	android:scheme
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:86:21-42
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:86:21-42
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:www.google.com+data:path:/m/products/scan+data:scheme:http
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:89:13-99:29
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:89:13-99:29
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:www.google.co.uk+data:path:/m/products/scan+data:scheme:http
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:101:13-111:29
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:101:13-111:29
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:scan+data:path:/+data:scheme:zxing
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:113:13-123:29
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:113:13-123:29
 activity#com.google.zxing.client.android.PreferencesActivity
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:125:9-129:20
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:125:9-129:20
 	android:stateNotNeeded
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:128:13-42
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:128:13-42
 	android:label
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:127:13-53
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:127:13-53
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:126:13-79
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:126:13-79
 activity#com.google.zxing.client.android.encode.EncodeActivity
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:130:9-155:20
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:130:9-155:20
 	android:stateNotNeeded
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:133:13-42
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:133:13-42
 	android:label
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:132:13-47
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:132:13-47
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:131:13-81
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:131:13-81
 intent-filter#action:name:com.google.zxing.client.android.ENCODE+category:name:android.intent.category.DEFAULT
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:134:13-138:29
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:134:13-138:29
 action#com.google.zxing.client.android.ENCODE
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:135:17-81
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:135:17-81
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:135:25-78
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:135:25-78
 intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/x-vcard
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:140:13-146:29
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:140:13-146:29
 action#android.intent.action.SEND
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:141:17-69
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:141:17-69
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:141:25-66
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:141:25-66
 intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:148:13-154:29
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:148:13-154:29
 activity#com.google.zxing.client.android.book.SearchBookContentsActivity
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:156:9-167:20
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:156:9-167:20
 	android:screenOrientation
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:160:13-50
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:160:13-50
 	android:stateNotNeeded
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:161:13-42
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:161:13-42
 	android:label
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:159:13-45
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:159:13-45
 	android:configChanges
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:158:13-63
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:158:13-63
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:157:13-91
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:157:13-91
 intent-filter#action:name:com.google.zxing.client.android.SEARCH_BOOK_CONTENTS+category:name:android.intent.category.DEFAULT
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:162:13-166:29
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:162:13-166:29
 action#com.google.zxing.client.android.SEARCH_BOOK_CONTENTS
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:163:17-95
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:163:17-95
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:163:25-92
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:163:25-92
 activity#com.google.zxing.client.android.share.ShareActivity
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:168:9-179:20
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:168:9-179:20
 	android:screenOrientation
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:171:13-45
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:171:13-45
 	android:stateNotNeeded
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:172:13-42
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:172:13-42
 	android:label
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:170:13-47
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:170:13-47
 	android:theme
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:173:13-55
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:173:13-55
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:169:13-79
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:169:13-79
 intent-filter#action:name:com.google.zxing.client.android.SHARE+category:name:android.intent.category.DEFAULT
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:174:13-178:29
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:174:13-178:29
 action#com.google.zxing.client.android.SHARE
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:175:17-80
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:175:17-80
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:175:25-77
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:175:25-77
 activity#com.google.zxing.client.android.history.HistoryActivity
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:180:9-189:20
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:180:9-189:20
 	android:stateNotNeeded
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:183:13-42
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:183:13-42
 	android:label
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:182:13-50
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:182:13-50
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:181:13-83
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:181:13-83
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:184:13-188:29
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:184:13-188:29
 activity#com.google.zxing.client.android.share.BookmarkPickerActivity
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:190:9-199:20
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:190:9-199:20
 	android:stateNotNeeded
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:193:13-42
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:193:13-42
 	android:label
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:192:13-57
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:192:13-57
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:191:13-88
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:191:13-88
 intent-filter#action:name:android.intent.action.PICK+category:name:android.intent.category.DEFAULT
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:194:13-198:29
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:194:13-198:29
 action#android.intent.action.PICK
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:195:17-69
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:195:17-69
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:195:25-66
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:195:25-66
 activity#com.google.zxing.client.android.share.AppPickerActivity
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:200:9-210:20
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:200:9-210:20
 	android:stateNotNeeded
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:204:13-42
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:204:13-42
 	android:label
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:203:13-52
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:203:13-52
 	android:configChanges
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:202:13-48
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:202:13-48
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:201:13-83
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:201:13-83
 activity#com.google.zxing.client.android.HelpActivity
-ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:211:9-219:20
+ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:211:9-219:20
 	android:screenOrientation
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:213:13-45
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:213:13-45
 	android:name
-		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:212:13-72
+		ADDED from [:captureActivity] C:\Users\Napst\StudioProjects\ZafraApp\captureActivity\build\intermediates\library_manifest\debug\AndroidManifest.xml:212:13-72
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3b49b78dac24db0451eb912292f3f9c0\AndroidManifest.xml:27:9-31:19
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:35:9-39:19
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:35:9-39:19
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3f7d517be01b419d65fe5d5cb2a40b86\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:35:9-39:19
 	android:name
-		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3b49b78dac24db0451eb912292f3f9c0\AndroidManifest.xml:27:18-89
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3f7d517be01b419d65fe5d5cb2a40b86\AndroidManifest.xml:27:18-89
 meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
-ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3b49b78dac24db0451eb912292f3f9c0\AndroidManifest.xml:28:13-30:85
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3f7d517be01b419d65fe5d5cb2a40b86\AndroidManifest.xml:28:13-30:85
 	android:value
-		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3b49b78dac24db0451eb912292f3f9c0\AndroidManifest.xml:30:17-82
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3f7d517be01b419d65fe5d5cb2a40b86\AndroidManifest.xml:30:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3b49b78dac24db0451eb912292f3f9c0\AndroidManifest.xml:29:17-139
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\3f7d517be01b419d65fe5d5cb2a40b86\AndroidManifest.xml:29:17-139
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:26:5-110
-MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\41545507734164c40b844b8097459ed0\AndroidManifest.xml:26:5-110
-MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\41545507734164c40b844b8097459ed0\AndroidManifest.xml:26:5-110
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\857f9520d4e61c415beff1403a0fb267\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\857f9520d4e61c415beff1403a0fb267\AndroidManifest.xml:26:5-110
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:26:22-107
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:26:22-107
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:29:9-33:20
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:29:9-33:20
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:31:13-35
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:31:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:32:13-37
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:30:13-85
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:30:13-85
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:34:9-42:20
-MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\41545507734164c40b844b8097459ed0\AndroidManifest.xml:29:9-37:20
-MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\41545507734164c40b844b8097459ed0\AndroidManifest.xml:29:9-37:20
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\857f9520d4e61c415beff1403a0fb267\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\857f9520d4e61c415beff1403a0fb267\AndroidManifest.xml:29:9-37:20
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:36:13-35
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:36:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:37:13-36
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:37:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:38:13-69
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:38:13-69
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:35:13-100
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:35:13-100
 intent-filter#action:name:com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:39:13-41:29
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:39:13-41:29
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:40:17-79
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:40:17-79
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:40:25-76
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:40:25-76
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:44:9-47:40
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:44:9-47:40
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:46:13-35
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:46:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:47:13-37
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:45:13-84
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:45:13-84
 service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:48:9-52:72
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:48:9-52:72
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:50:13-35
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:50:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:51:13-37
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:51:13-37
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:52:13-69
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:52:13-69
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\5180068d3c2f23dfe0fddd0e4b3e942e\AndroidManifest.xml:49:13-87
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\6a83bfee914c82d16144146c24ff98fc\AndroidManifest.xml:49:13-87
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:26:5-82
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:26:5-82
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:26:22-79
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:26:22-79
 permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:28:5-30:47
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:28:5-30:47
 	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:30:9-44
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:30:9-44
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:29:9-63
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:29:9-63
 permission#ayto.zafrApp.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:28:5-30:47
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:28:5-30:47
 	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:30:9-44
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:30:9-44
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:29:9-63
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:29:9-63
 uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:32:5-79
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:32:5-79
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:32:22-76
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:32:22-76
 uses-permission#ayto.zafrApp.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:32:5-79
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:32:5-79
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:32:22-76
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:32:22-76
 meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:36:13-38:85
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:36:13-38:85
 	android:value
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:38:17-82
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:38:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:37:17-96
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:37:17-96
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:41:9-50:20
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:41:9-50:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:43:13-36
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:43:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:44:13-73
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:44:13-73
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:42:13-78
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:42:13-78
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:45:13-49:29
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:45:13-49:29
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:ayto.zafrApp
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:45:13-49:29
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:45:13-49:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:46:17-81
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:46:17-81
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:46:25-78
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:46:25-78
 category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:48:17-61
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:48:17-61
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:48:27-58
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:48:27-58
 category#ayto.zafrApp
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:48:17-61
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:48:17-61
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:48:27-58
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:48:27-58
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:56:9-62:19
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:56:9-62:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:58:13-36
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:58:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:57:13-77
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:57:13-77
 intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:59:13-61:29
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:59:13-61:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:59:28-51
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:59:28-51
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:60:17-80
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:60:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\dbe86bfaf7e9cac9b5d6863c3fae07a9\AndroidManifest.xml:60:25-77
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\aa1d0e38ad437167bb9a4a07d379e1ee\AndroidManifest.xml:60:25-77
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\b59843a2d3d4e6f171a0038152f04c64\AndroidManifest.xml:9:9-13:39
+ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c3d248106a7d3cfd458fb087b554e2a8\AndroidManifest.xml:9:9-13:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\b59843a2d3d4e6f171a0038152f04c64\AndroidManifest.xml:11:13-72
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c3d248106a7d3cfd458fb087b554e2a8\AndroidManifest.xml:11:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\b59843a2d3d4e6f171a0038152f04c64\AndroidManifest.xml:12:13-37
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c3d248106a7d3cfd458fb087b554e2a8\AndroidManifest.xml:12:13-37
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\b59843a2d3d4e6f171a0038152f04c64\AndroidManifest.xml:13:13-36
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c3d248106a7d3cfd458fb087b554e2a8\AndroidManifest.xml:13:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\b59843a2d3d4e6f171a0038152f04c64\AndroidManifest.xml:10:13-77
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c3d248106a7d3cfd458fb087b554e2a8\AndroidManifest.xml:10:13-77
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\34880104b515bfc8595c149fb3da0a4e\AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f446e34b45224c29da26617bae915600\AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\34880104b515bfc8595c149fb3da0a4e\AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f446e34b45224c29da26617bae915600\AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\34880104b515bfc8595c149fb3da0a4e\AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f446e34b45224c29da26617bae915600\AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\34880104b515bfc8595c149fb3da0a4e\AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f446e34b45224c29da26617bae915600\AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\27f1be060ce535a8e4324f5a075ab04a\AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ec940a89d820fbc8449016e3a734cc10\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\27f1be060ce535a8e4324f5a075ab04a\AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ec940a89d820fbc8449016e3a734cc10\AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\27f1be060ce535a8e4324f5a075ab04a\AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ec940a89d820fbc8449016e3a734cc10\AndroidManifest.xml:24:13-58

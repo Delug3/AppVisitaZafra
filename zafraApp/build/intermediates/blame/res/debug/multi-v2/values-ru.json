@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\200bba2a4e12d4b6e259ecb707019d61\\res\\values-ru\\values-ru.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,220,322,434,520,625,745,824,902,982,1088,1196,1294,1403,1509,1617,1792,1892",
-                        "endColumns": "114,101,111,85,104,119,78,77,79,105,107,97,108,105,107,174,99,80",
-                        "endOffsets": "215,317,429,515,620,740,819,897,977,1083,1191,1289,1398,1504,1612,1787,1887,1968"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,151",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,220,322,434,520,625,745,824,902,982,1088,1196,1294,1403,1509,1617,1792,12972",
-                        "endColumns": "114,101,111,85,104,119,78,77,79,105,107,97,108,105,107,174,99,80",
-                        "endOffsets": "215,317,429,515,620,740,819,897,977,1083,1191,1289,1398,1504,1612,1787,1887,13048"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\34880104b515bfc8595c149fb3da0a4e\\res\\values-ru\\values.xml",
+                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\f446e34b45224c29da26617bae915600\\res\\values-ru\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -55,24 +38,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\27f1be060ce535a8e4324f5a075ab04a\\res\\values-ru\\values.xml",
+                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\7ad79524499de55015f261c33c443f04\\res\\values-ru\\values-ru.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "215",
-                        "endOffsets": "462"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,220,322,434,520,625,745,824,902,982,1088,1196,1294,1403,1509,1617,1792,1892",
+                        "endColumns": "114,101,111,85,104,119,78,77,79,105,107,97,108,105,107,174,99,80",
+                        "endOffsets": "215,317,429,515,620,740,819,897,977,1083,1191,1289,1398,1504,1612,1787,1887,1968"
                     },
                     "to": {
-                        "startLines": "57",
-                        "startColumns": "4",
-                        "startOffsets": "4864",
-                        "endColumns": "215",
-                        "endOffsets": "5075"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,151",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,220,322,434,520,625,745,824,902,982,1088,1196,1294,1403,1509,1617,1792,12972",
+                        "endColumns": "114,101,111,85,104,119,78,77,79,105,107,97,108,105,107,174,99,80",
+                        "endOffsets": "215,317,429,515,620,740,819,897,977,1083,1191,1289,1398,1504,1612,1787,1887,13048"
                     }
                 },
                 {
-                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\2a4284361be671f429e943e765925b6c\\res\\values-ru\\values-ru.xml",
+                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\672b683298cf43f71bf6cec664e95ec7\\res\\values-ru\\values-ru.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -86,6 +69,23 @@
                         "startOffsets": "13115",
                         "endColumns": "100",
                         "endOffsets": "13211"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\ec940a89d820fbc8449016e3a734cc10\\res\\values-ru\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "215",
+                        "endOffsets": "462"
+                    },
+                    "to": {
+                        "startLines": "57",
+                        "startColumns": "4",
+                        "startOffsets": "4864",
+                        "endColumns": "215",
+                        "endOffsets": "5075"
                     }
                 }
             ]

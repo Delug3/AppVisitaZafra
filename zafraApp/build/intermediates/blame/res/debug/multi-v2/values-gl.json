@@ -4,41 +4,7 @@
             "outputFile": "C:\\Users\\Napst\\StudioProjects\\ZafraApp\\zafraApp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gl\\values-gl.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\2a4284361be671f429e943e765925b6c\\res\\values-gl\\values-gl.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "38",
-                        "startColumns": "4",
-                        "startOffsets": "4742",
-                        "endColumns": "100",
-                        "endOffsets": "4838"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\200bba2a4e12d4b6e259ecb707019d61\\res\\values-gl\\values-gl.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,217,329,437,522,624,750,834,915,997,1104,1213,1312,1420,1524,1631,1790,1890",
-                        "endColumns": "111,111,107,84,101,125,83,80,81,106,108,98,107,103,106,158,99,81",
-                        "endOffsets": "212,324,432,517,619,745,829,910,992,1099,1208,1307,1415,1519,1626,1785,1885,1967"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,217,329,437,522,624,750,834,915,997,1104,1213,1312,1420,1524,1631,1790,4660",
-                        "endColumns": "111,111,107,84,101,125,83,80,81,106,108,98,107,103,106,158,99,81",
-                        "endOffsets": "212,324,432,517,619,745,829,910,992,1099,1208,1307,1415,1519,1626,1785,1885,4737"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\34880104b515bfc8595c149fb3da0a4e\\res\\values-gl\\values.xml",
+                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\f446e34b45224c29da26617bae915600\\res\\values-gl\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -55,7 +21,41 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\27f1be060ce535a8e4324f5a075ab04a\\res\\values-gl\\values.xml",
+                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\7ad79524499de55015f261c33c443f04\\res\\values-gl\\values-gl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,217,329,437,522,624,750,834,915,997,1104,1213,1312,1420,1524,1631,1790,1890",
+                        "endColumns": "111,111,107,84,101,125,83,80,81,106,108,98,107,103,106,158,99,81",
+                        "endOffsets": "212,324,432,517,619,745,829,910,992,1099,1208,1307,1415,1519,1626,1785,1885,1967"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,217,329,437,522,624,750,834,915,997,1104,1213,1312,1420,1524,1631,1790,4660",
+                        "endColumns": "111,111,107,84,101,125,83,80,81,106,108,98,107,103,106,158,99,81",
+                        "endOffsets": "212,324,432,517,619,745,829,910,992,1099,1208,1307,1415,1519,1626,1785,1885,4737"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\672b683298cf43f71bf6cec664e95ec7\\res\\values-gl\\values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "4742",
+                        "endColumns": "100",
+                        "endOffsets": "4838"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\ec940a89d820fbc8449016e3a734cc10\\res\\values-gl\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\Napst\\StudioProjects\\ZafraApp\\zafraApp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-iw\\values-iw.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\200bba2a4e12d4b6e259ecb707019d61\\res\\values-iw\\values-iw.xml",
+                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\7ad79524499de55015f261c33c443f04\\res\\values-iw\\values-iw.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\34880104b515bfc8595c149fb3da0a4e\\res\\values-iw\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "245,346,532,655,757,955,1078,1216,1344,1539,1640,1816,1937,2130,2301,2387,2473",
-                        "endColumns": "100,185,122,101,197,122,137,127,194,100,175,120,192,170,85,85,105",
-                        "endOffsets": "345,531,654,756,954,1077,1215,1343,1538,1639,1815,1936,2129,2300,2386,2472,2578"
-                    },
-                    "to": {
-                        "startLines": "49,50,51,52,53,54,55,56,58,59,60,61,62,63,64,65,66",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3526,3631,3817,3944,4050,4248,4375,4517,4826,5021,5126,5302,5427,5620,5795,5885,5975",
-                        "endColumns": "104,185,126,105,197,126,141,131,194,104,175,124,192,174,89,89,109",
-                        "endOffsets": "3626,3812,3939,4045,4243,4370,4512,4644,5016,5121,5297,5422,5615,5790,5880,5970,6080"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\27f1be060ce535a8e4324f5a075ab04a\\res\\values-iw\\values.xml",
+                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\ec940a89d820fbc8449016e3a734cc10\\res\\values-iw\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -55,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\2a4284361be671f429e943e765925b6c\\res\\values-iw\\values-iw.xml",
+                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\f446e34b45224c29da26617bae915600\\res\\values-iw\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,346,532,655,757,955,1078,1216,1344,1539,1640,1816,1937,2130,2301,2387,2473",
+                        "endColumns": "100,185,122,101,197,122,137,127,194,100,175,120,192,170,85,85,105",
+                        "endOffsets": "345,531,654,756,954,1077,1215,1343,1538,1639,1815,1936,2129,2300,2386,2472,2578"
+                    },
+                    "to": {
+                        "startLines": "49,50,51,52,53,54,55,56,58,59,60,61,62,63,64,65,66",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3526,3631,3817,3944,4050,4248,4375,4517,4826,5021,5126,5302,5427,5620,5795,5885,5975",
+                        "endColumns": "104,185,126,105,197,126,141,131,194,104,175,124,192,174,89,89,109",
+                        "endOffsets": "3626,3812,3939,4045,4243,4370,4512,4644,5016,5121,5297,5422,5615,5790,5880,5970,6080"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\672b683298cf43f71bf6cec664e95ec7\\res\\values-iw\\values-iw.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

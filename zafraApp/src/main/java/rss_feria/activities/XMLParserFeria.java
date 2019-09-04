@@ -13,8 +13,6 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-import rss_feria.activities.RssNoticiasFeria_Activity;
-
 public class XMLParserFeria {
 	private URL url;
 	
@@ -43,9 +41,9 @@ public class XMLParserFeria {
 					Node property = properties.item(j);
 					String name = property.getNodeName();
 					if (name.equalsIgnoreCase("title")){
-						entry.put(RssNoticiasFeria_Activity.DATA_TITLE, property.getFirstChild().getNodeValue());
+						entry.put(RssNoticiasFeriaActivity.DATA_TITLE, property.getFirstChild().getNodeValue());
 					} else if (name.equalsIgnoreCase("link")){
-						entry.put(RssNoticiasFeria_Activity.DATA_LINK, property.getFirstChild().getNodeValue());
+						entry.put(RssNoticiasFeriaActivity.DATA_LINK, property.getFirstChild().getNodeValue());
 					}
 				}
 				entries.add(entry);

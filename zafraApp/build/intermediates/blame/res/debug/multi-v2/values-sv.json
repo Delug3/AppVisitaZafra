@@ -4,24 +4,7 @@
             "outputFile": "C:\\Users\\Napst\\StudioProjects\\ZafraApp\\zafraApp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sv\\values-sv.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\2a4284361be671f429e943e765925b6c\\res\\values-sv\\values-sv.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "153",
-                        "startColumns": "4",
-                        "startOffsets": "12703",
-                        "endColumns": "100",
-                        "endOffsets": "12799"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\34880104b515bfc8595c149fb3da0a4e\\res\\values-sv\\values.xml",
+                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\f446e34b45224c29da26617bae915600\\res\\values-sv\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -35,6 +18,40 @@
                         "startOffsets": "3592,3701,3890,4019,4131,4331,4458,4611,4951,5158,5268,5461,5591,5804,5990,6086,6179",
                         "endColumns": "108,188,128,111,199,126,152,132,206,109,192,129,212,185,95,92,107",
                         "endOffsets": "3696,3885,4014,4126,4326,4453,4606,4739,5153,5263,5456,5586,5799,5985,6081,6174,6282"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\7ad79524499de55015f261c33c443f04\\res\\values-sv\\values-sv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,211,314,425,510,612,725,801,877,957,1063,1163,1259,1364,1466,1568,1722,1824",
+                        "endColumns": "105,102,110,84,101,112,75,75,79,105,99,95,104,101,101,153,101,78",
+                        "endOffsets": "206,309,420,505,607,720,796,872,952,1058,1158,1254,1359,1461,1563,1717,1819,1898"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,151",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,211,314,425,510,612,725,801,877,957,1063,1163,1259,1364,1466,1568,1722,12566",
+                        "endColumns": "105,102,110,84,101,112,75,75,79,105,99,95,104,101,101,153,101,78",
+                        "endOffsets": "206,309,420,505,607,720,796,872,952,1058,1158,1254,1359,1461,1563,1717,1819,12640"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\672b683298cf43f71bf6cec664e95ec7\\res\\values-sv\\values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "153",
+                        "startColumns": "4",
+                        "startOffsets": "12703",
+                        "endColumns": "100",
+                        "endOffsets": "12799"
                     }
                 },
                 {
@@ -55,24 +72,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\200bba2a4e12d4b6e259ecb707019d61\\res\\values-sv\\values-sv.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,211,314,425,510,612,725,801,877,957,1063,1163,1259,1364,1466,1568,1722,1824",
-                        "endColumns": "105,102,110,84,101,112,75,75,79,105,99,95,104,101,101,153,101,78",
-                        "endOffsets": "206,309,420,505,607,720,796,872,952,1058,1158,1254,1359,1461,1563,1717,1819,1898"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,151",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,211,314,425,510,612,725,801,877,957,1063,1163,1259,1364,1466,1568,1722,12566",
-                        "endColumns": "105,102,110,84,101,112,75,75,79,105,99,95,104,101,101,153,101,78",
-                        "endOffsets": "206,309,420,505,607,720,796,872,952,1058,1158,1254,1359,1461,1563,1717,1819,12640"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\27f1be060ce535a8e4324f5a075ab04a\\res\\values-sv\\values.xml",
+                    "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\ec940a89d820fbc8449016e3a734cc10\\res\\values-sv\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

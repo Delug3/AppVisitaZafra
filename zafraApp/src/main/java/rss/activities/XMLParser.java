@@ -13,8 +13,6 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-import rss.activities.RssNoticias_Activity;
-
 public class XMLParser {
 	private URL url;
 	
@@ -43,9 +41,9 @@ public class XMLParser {
 					Node property = properties.item(j);
 					String name = property.getNodeName();
 					if (name.equalsIgnoreCase("title")){
-						entry.put(RssNoticias_Activity.DATA_TITLE, property.getFirstChild().getNodeValue());
+						entry.put(RssNoticiasActivity.DATA_TITLE, property.getFirstChild().getNodeValue());
 					} else if (name.equalsIgnoreCase("link")){
-						entry.put(RssNoticias_Activity.DATA_LINK, property.getFirstChild().getNodeValue());
+						entry.put(RssNoticiasActivity.DATA_LINK, property.getFirstChild().getNodeValue());
 					}
 				}
 				entries.add(entry);

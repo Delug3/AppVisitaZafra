@@ -11,7 +11,7 @@ import android.net.Uri;
 import android.os.IBinder;
 import android.support.v4.app.NotificationCompat;
 import ayto.zafrApp.R;
-import radio.activities.Radio_Activity;
+import radio.activities.RadioActivity;
 
 public class MyMediaPlayerService extends Service {
 
@@ -39,14 +39,14 @@ public class MyMediaPlayerService extends Service {
 		if (!isPlaying) {			
 			isPlaying = true;
 			
-			Intent intent = new Intent(this, Radio_Activity.class);
+			Intent intent = new Intent(this, RadioActivity.class);
 			intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP|
 							Intent.FLAG_ACTIVITY_SINGLE_TOP);
 
 			PendingIntent pi = PendingIntent.getActivity(this, 0, intent, 0);
 			
 			Notification notification = new NotificationCompat.Builder(getApplicationContext())
-	         	.setContentTitle("Radio_Activity Emisur")
+	         	.setContentTitle("RadioActivity Emisur")
 	         	.setContentText("En Streaming")
 	         	.setSmallIcon(R.drawable.radiopush)
 	         	.setContentIntent(pi)
